@@ -1,0 +1,466 @@
+project,article,access,view_date,views
+de.wikipedia,Strava,desktop,2023-01-01,22
+de.wikipedia,Strava,desktop,2023-01-02,39
+de.wikipedia,Strava,desktop,2023-01-03,23
+de.wikipedia,Strava,desktop,2023-01-04,25
+de.wikipedia,Strava,desktop,2023-01-05,27
+de.wikipedia,Strava,desktop,2023-01-06,21
+de.wikipedia,Strava,desktop,2023-01-07,20
+de.wikipedia,Strava,desktop,2023-01-08,19
+de.wikipedia,Strava,desktop,2023-01-09,32
+de.wikipedia,Strava,desktop,2023-01-10,27
+de.wikipedia,Strava,desktop,2023-01-11,22
+de.wikipedia,Strava,desktop,2023-01-12,22
+de.wikipedia,Strava,desktop,2023-01-13,37
+de.wikipedia,Strava,desktop,2023-01-14,20
+de.wikipedia,Strava,desktop,2023-01-15,33
+de.wikipedia,Strava,desktop,2023-01-16,74
+de.wikipedia,Strava,desktop,2023-01-17,34
+de.wikipedia,Strava,desktop,2023-01-18,24
+de.wikipedia,Strava,desktop,2023-01-19,26
+de.wikipedia,Strava,desktop,2023-01-20,21
+de.wikipedia,Strava,desktop,2023-01-21,15
+de.wikipedia,Strava,desktop,2023-01-22,18
+de.wikipedia,Strava,desktop,2023-01-23,23
+de.wikipedia,Strava,desktop,2023-01-24,51
+de.wikipedia,Strava,desktop,2023-01-25,24
+de.wikipedia,Strava,desktop,2023-01-26,17
+de.wikipedia,Strava,desktop,2023-01-27,24
+de.wikipedia,Strava,desktop,2023-01-28,17
+de.wikipedia,Strava,desktop,2023-01-29,18
+de.wikipedia,Strava,desktop,2023-01-30,21
+de.wikipedia,Strava,desktop,2023-01-31,18
+de.wikipedia,Strava,mobile-app,2023-01-01,11
+de.wikipedia,Strava,mobile-app,2023-01-02,6
+de.wikipedia,Strava,mobile-app,2023-01-03,4
+de.wikipedia,Strava,mobile-app,2023-01-04,1
+de.wikipedia,Strava,mobile-app,2023-01-05,2
+de.wikipedia,Strava,mobile-app,2023-01-06,2
+de.wikipedia,Strava,mobile-app,2023-01-07,4
+de.wikipedia,Strava,mobile-app,2023-01-08,5
+de.wikipedia,Strava,mobile-app,2023-01-09,5
+de.wikipedia,Strava,mobile-app,2023-01-10,7
+de.wikipedia,Strava,mobile-app,2023-01-11,4
+de.wikipedia,Strava,mobile-app,2023-01-12,2
+de.wikipedia,Strava,mobile-app,2023-01-13,1
+de.wikipedia,Strava,mobile-app,2023-01-14,1
+de.wikipedia,Strava,mobile-app,2023-01-15,7
+de.wikipedia,Strava,mobile-app,2023-01-16,6
+de.wikipedia,Strava,mobile-app,2023-01-17,1
+de.wikipedia,Strava,mobile-app,2023-01-18,4
+de.wikipedia,Strava,mobile-app,2023-01-19,1
+de.wikipedia,Strava,mobile-app,2023-01-20,4
+de.wikipedia,Strava,mobile-app,2023-01-21,0
+de.wikipedia,Strava,mobile-app,2023-01-22,3
+de.wikipedia,Strava,mobile-app,2023-01-23,1
+de.wikipedia,Strava,mobile-app,2023-01-24,4
+de.wikipedia,Strava,mobile-app,2023-01-25,1
+de.wikipedia,Strava,mobile-app,2023-01-26,3
+de.wikipedia,Strava,mobile-app,2023-01-27,5
+de.wikipedia,Strava,mobile-app,2023-01-28,3
+de.wikipedia,Strava,mobile-app,2023-01-29,7
+de.wikipedia,Strava,mobile-app,2023-01-30,2
+de.wikipedia,Strava,mobile-app,2023-01-31,4
+de.wikipedia,Strava,mobile-web,2023-01-01,36
+de.wikipedia,Strava,mobile-web,2023-01-02,33
+de.wikipedia,Strava,mobile-web,2023-01-03,21
+de.wikipedia,Strava,mobile-web,2023-01-04,19
+de.wikipedia,Strava,mobile-web,2023-01-05,27
+de.wikipedia,Strava,mobile-web,2023-01-06,23
+de.wikipedia,Strava,mobile-web,2023-01-07,22
+de.wikipedia,Strava,mobile-web,2023-01-08,25
+de.wikipedia,Strava,mobile-web,2023-01-09,54
+de.wikipedia,Strava,mobile-web,2023-01-10,25
+de.wikipedia,Strava,mobile-web,2023-01-11,17
+de.wikipedia,Strava,mobile-web,2023-01-12,12
+de.wikipedia,Strava,mobile-web,2023-01-13,27
+de.wikipedia,Strava,mobile-web,2023-01-14,23
+de.wikipedia,Strava,mobile-web,2023-01-15,37
+de.wikipedia,Strava,mobile-web,2023-01-16,46
+de.wikipedia,Strava,mobile-web,2023-01-17,18
+de.wikipedia,Strava,mobile-web,2023-01-18,12
+de.wikipedia,Strava,mobile-web,2023-01-19,16
+de.wikipedia,Strava,mobile-web,2023-01-20,12
+de.wikipedia,Strava,mobile-web,2023-01-21,20
+de.wikipedia,Strava,mobile-web,2023-01-22,19
+de.wikipedia,Strava,mobile-web,2023-01-23,17
+de.wikipedia,Strava,mobile-web,2023-01-24,30
+de.wikipedia,Strava,mobile-web,2023-01-25,27
+de.wikipedia,Strava,mobile-web,2023-01-26,19
+de.wikipedia,Strava,mobile-web,2023-01-27,22
+de.wikipedia,Strava,mobile-web,2023-01-28,11
+de.wikipedia,Strava,mobile-web,2023-01-29,23
+de.wikipedia,Strava,mobile-web,2023-01-30,18
+de.wikipedia,Strava,mobile-web,2023-01-31,8
+en.wikipedia,Garmin,desktop,2023-01-01,205
+en.wikipedia,Garmin,desktop,2023-01-02,298
+en.wikipedia,Garmin,desktop,2023-01-03,342
+en.wikipedia,Garmin,desktop,2023-01-04,347
+en.wikipedia,Garmin,desktop,2023-01-05,325
+en.wikipedia,Garmin,desktop,2023-01-06,304
+en.wikipedia,Garmin,desktop,2023-01-07,252
+en.wikipedia,Garmin,desktop,2023-01-08,239
+en.wikipedia,Garmin,desktop,2023-01-09,362
+en.wikipedia,Garmin,desktop,2023-01-10,359
+en.wikipedia,Garmin,desktop,2023-01-11,336
+en.wikipedia,Garmin,desktop,2023-01-12,302
+en.wikipedia,Garmin,desktop,2023-01-13,292
+en.wikipedia,Garmin,desktop,2023-01-14,225
+en.wikipedia,Garmin,desktop,2023-01-15,268
+en.wikipedia,Garmin,desktop,2023-01-16,320
+en.wikipedia,Garmin,desktop,2023-01-17,369
+en.wikipedia,Garmin,desktop,2023-01-18,337
+en.wikipedia,Garmin,desktop,2023-01-19,317
+en.wikipedia,Garmin,desktop,2023-01-20,254
+en.wikipedia,Garmin,desktop,2023-01-21,204
+en.wikipedia,Garmin,desktop,2023-01-22,243
+en.wikipedia,Garmin,desktop,2023-01-23,345
+en.wikipedia,Garmin,desktop,2023-01-24,327
+en.wikipedia,Garmin,desktop,2023-01-25,299
+en.wikipedia,Garmin,desktop,2023-01-26,279
+en.wikipedia,Garmin,desktop,2023-01-27,334
+en.wikipedia,Garmin,desktop,2023-01-28,211
+en.wikipedia,Garmin,desktop,2023-01-29,221
+en.wikipedia,Garmin,desktop,2023-01-30,340
+en.wikipedia,Garmin,desktop,2023-01-31,339
+en.wikipedia,Garmin,mobile-app,2023-01-01,26
+en.wikipedia,Garmin,mobile-app,2023-01-02,14
+en.wikipedia,Garmin,mobile-app,2023-01-03,16
+en.wikipedia,Garmin,mobile-app,2023-01-04,10
+en.wikipedia,Garmin,mobile-app,2023-01-05,12
+en.wikipedia,Garmin,mobile-app,2023-01-06,11
+en.wikipedia,Garmin,mobile-app,2023-01-07,21
+en.wikipedia,Garmin,mobile-app,2023-01-08,20
+en.wikipedia,Garmin,mobile-app,2023-01-09,27
+en.wikipedia,Garmin,mobile-app,2023-01-10,23
+en.wikipedia,Garmin,mobile-app,2023-01-11,22
+en.wikipedia,Garmin,mobile-app,2023-01-12,13
+en.wikipedia,Garmin,mobile-app,2023-01-13,20
+en.wikipedia,Garmin,mobile-app,2023-01-14,27
+en.wikipedia,Garmin,mobile-app,2023-01-15,22
+en.wikipedia,Garmin,mobile-app,2023-01-16,27
+en.wikipedia,Garmin,mobile-app,2023-01-17,14
+en.wikipedia,Garmin,mobile-app,2023-01-18,13
+en.wikipedia,Garmin,mobile-app,2023-01-19,19
+en.wikipedia,Garmin,mobile-app,2023-01-20,19
+en.wikipedia,Garmin,mobile-app,2023-01-21,21
+en.wikipedia,Garmin,mobile-app,2023-01-22,17
+en.wikipedia,Garmin,mobile-app,2023-01-23,9
+en.wikipedia,Garmin,mobile-app,2023-01-24,17
+en.wikipedia,Garmin,mobile-app,2023-01-25,15
+en.wikipedia,Garmin,mobile-app,2023-01-26,9
+en.wikipedia,Garmin,mobile-app,2023-01-27,18
+en.wikipedia,Garmin,mobile-app,2023-01-28,15
+en.wikipedia,Garmin,mobile-app,2023-01-29,25
+en.wikipedia,Garmin,mobile-app,2023-01-30,19
+en.wikipedia,Garmin,mobile-app,2023-01-31,13
+en.wikipedia,Garmin,mobile-web,2023-01-01,287
+en.wikipedia,Garmin,mobile-web,2023-01-02,311
+en.wikipedia,Garmin,mobile-web,2023-01-03,286
+en.wikipedia,Garmin,mobile-web,2023-01-04,251
+en.wikipedia,Garmin,mobile-web,2023-01-05,240
+en.wikipedia,Garmin,mobile-web,2023-01-06,297
+en.wikipedia,Garmin,mobile-web,2023-01-07,292
+en.wikipedia,Garmin,mobile-web,2023-01-08,307
+en.wikipedia,Garmin,mobile-web,2023-01-09,245
+en.wikipedia,Garmin,mobile-web,2023-01-10,284
+en.wikipedia,Garmin,mobile-web,2023-01-11,281
+en.wikipedia,Garmin,mobile-web,2023-01-12,257
+en.wikipedia,Garmin,mobile-web,2023-01-13,249
+en.wikipedia,Garmin,mobile-web,2023-01-14,308
+en.wikipedia,Garmin,mobile-web,2023-01-15,320
+en.wikipedia,Garmin,mobile-web,2023-01-16,264
+en.wikipedia,Garmin,mobile-web,2023-01-17,244
+en.wikipedia,Garmin,mobile-web,2023-01-18,266
+en.wikipedia,Garmin,mobile-web,2023-01-19,225
+en.wikipedia,Garmin,mobile-web,2023-01-20,253
+en.wikipedia,Garmin,mobile-web,2023-01-21,250
+en.wikipedia,Garmin,mobile-web,2023-01-22,321
+en.wikipedia,Garmin,mobile-web,2023-01-23,230
+en.wikipedia,Garmin,mobile-web,2023-01-24,254
+en.wikipedia,Garmin,mobile-web,2023-01-25,229
+en.wikipedia,Garmin,mobile-web,2023-01-26,230
+en.wikipedia,Garmin,mobile-web,2023-01-27,244
+en.wikipedia,Garmin,mobile-web,2023-01-28,288
+en.wikipedia,Garmin,mobile-web,2023-01-29,308
+en.wikipedia,Garmin,mobile-web,2023-01-30,250
+en.wikipedia,Garmin,mobile-web,2023-01-31,249
+en.wikipedia,Peloton Interactive,desktop,2023-01-01,117
+en.wikipedia,Peloton Interactive,desktop,2023-01-02,144
+en.wikipedia,Peloton Interactive,desktop,2023-01-03,172
+en.wikipedia,Peloton Interactive,desktop,2023-01-04,204
+en.wikipedia,Peloton Interactive,desktop,2023-01-05,239
+en.wikipedia,Peloton Interactive,desktop,2023-01-06,308
+en.wikipedia,Peloton Interactive,desktop,2023-01-07,135
+en.wikipedia,Peloton Interactive,desktop,2023-01-08,142
+en.wikipedia,Peloton Interactive,desktop,2023-01-09,221
+en.wikipedia,Peloton Interactive,desktop,2023-01-10,253
+en.wikipedia,Peloton Interactive,desktop,2023-01-11,198
+en.wikipedia,Peloton Interactive,desktop,2023-01-12,223
+en.wikipedia,Peloton Interactive,desktop,2023-01-13,210
+en.wikipedia,Peloton Interactive,desktop,2023-01-14,112
+en.wikipedia,Peloton Interactive,desktop,2023-01-15,134
+en.wikipedia,Peloton Interactive,desktop,2023-01-16,175
+en.wikipedia,Peloton Interactive,desktop,2023-01-17,206
+en.wikipedia,Peloton Interactive,desktop,2023-01-18,178
+en.wikipedia,Peloton Interactive,desktop,2023-01-19,220
+en.wikipedia,Peloton Interactive,desktop,2023-01-20,153
+en.wikipedia,Peloton Interactive,desktop,2023-01-21,108
+en.wikipedia,Peloton Interactive,desktop,2023-01-22,125
+en.wikipedia,Peloton Interactive,desktop,2023-01-23,207
+en.wikipedia,Peloton Interactive,desktop,2023-01-24,235
+en.wikipedia,Peloton Interactive,desktop,2023-01-25,160
+en.wikipedia,Peloton Interactive,desktop,2023-01-26,192
+en.wikipedia,Peloton Interactive,desktop,2023-01-27,160
+en.wikipedia,Peloton Interactive,desktop,2023-01-28,122
+en.wikipedia,Peloton Interactive,desktop,2023-01-29,125
+en.wikipedia,Peloton Interactive,desktop,2023-01-30,200
+en.wikipedia,Peloton Interactive,desktop,2023-01-31,235
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-01,31
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-02,28
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-03,17
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-04,12
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-05,15
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-06,24
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-07,29
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-08,12
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-09,25
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-10,22
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-11,15
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-12,18
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-13,23
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-14,12
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-15,12
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-16,16
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-17,12
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-18,8
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-19,14
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-20,16
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-21,18
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-22,22
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-23,15
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-24,6
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-25,15
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-26,17
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-27,12
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-28,16
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-29,12
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-30,14
+en.wikipedia,Peloton Interactive,mobile-app,2023-01-31,15
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-01,158
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-02,193
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-03,212
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-04,142
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-05,198
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-06,202
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-07,188
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-08,193
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-09,150
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-10,180
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-11,172
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-12,135
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-13,113
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-14,142
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-15,164
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-16,133
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-17,164
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-18,141
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-19,160
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-20,99
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-21,118
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-22,173
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-23,112
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-24,142
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-25,120
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-26,117
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-27,108
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-28,157
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-29,122
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-30,122
+en.wikipedia,Peloton Interactive,mobile-web,2023-01-31,135
+en.wikipedia,Running,desktop,2023-01-01,302
+en.wikipedia,Running,desktop,2023-01-02,402
+en.wikipedia,Running,desktop,2023-01-03,385
+en.wikipedia,Running,desktop,2023-01-04,354
+en.wikipedia,Running,desktop,2023-01-05,363
+en.wikipedia,Running,desktop,2023-01-06,326
+en.wikipedia,Running,desktop,2023-01-07,221
+en.wikipedia,Running,desktop,2023-01-08,238
+en.wikipedia,Running,desktop,2023-01-09,372
+en.wikipedia,Running,desktop,2023-01-10,378
+en.wikipedia,Running,desktop,2023-01-11,415
+en.wikipedia,Running,desktop,2023-01-12,404
+en.wikipedia,Running,desktop,2023-01-13,353
+en.wikipedia,Running,desktop,2023-01-14,265
+en.wikipedia,Running,desktop,2023-01-15,304
+en.wikipedia,Running,desktop,2023-01-16,453
+en.wikipedia,Running,desktop,2023-01-17,389
+en.wikipedia,Running,desktop,2023-01-18,376
+en.wikipedia,Running,desktop,2023-01-19,427
+en.wikipedia,Running,desktop,2023-01-20,366
+en.wikipedia,Running,desktop,2023-01-21,268
+en.wikipedia,Running,desktop,2023-01-22,275
+en.wikipedia,Running,desktop,2023-01-23,365
+en.wikipedia,Running,desktop,2023-01-24,452
+en.wikipedia,Running,desktop,2023-01-25,425
+en.wikipedia,Running,desktop,2023-01-26,400
+en.wikipedia,Running,desktop,2023-01-27,335
+en.wikipedia,Running,desktop,2023-01-28,256
+en.wikipedia,Running,desktop,2023-01-29,341
+en.wikipedia,Running,desktop,2023-01-30,373
+en.wikipedia,Running,desktop,2023-01-31,410
+en.wikipedia,Running,mobile-app,2023-01-01,13
+en.wikipedia,Running,mobile-app,2023-01-02,14
+en.wikipedia,Running,mobile-app,2023-01-03,15
+en.wikipedia,Running,mobile-app,2023-01-04,8
+en.wikipedia,Running,mobile-app,2023-01-05,5
+en.wikipedia,Running,mobile-app,2023-01-06,11
+en.wikipedia,Running,mobile-app,2023-01-07,15
+en.wikipedia,Running,mobile-app,2023-01-08,19
+en.wikipedia,Running,mobile-app,2023-01-09,11
+en.wikipedia,Running,mobile-app,2023-01-10,16
+en.wikipedia,Running,mobile-app,2023-01-11,13
+en.wikipedia,Running,mobile-app,2023-01-12,13
+en.wikipedia,Running,mobile-app,2023-01-13,8
+en.wikipedia,Running,mobile-app,2023-01-14,24
+en.wikipedia,Running,mobile-app,2023-01-15,19
+en.wikipedia,Running,mobile-app,2023-01-16,17
+en.wikipedia,Running,mobile-app,2023-01-17,19
+en.wikipedia,Running,mobile-app,2023-01-18,11
+en.wikipedia,Running,mobile-app,2023-01-19,15
+en.wikipedia,Running,mobile-app,2023-01-20,7
+en.wikipedia,Running,mobile-app,2023-01-21,12
+en.wikipedia,Running,mobile-app,2023-01-22,13
+en.wikipedia,Running,mobile-app,2023-01-23,13
+en.wikipedia,Running,mobile-app,2023-01-24,18
+en.wikipedia,Running,mobile-app,2023-01-25,13
+en.wikipedia,Running,mobile-app,2023-01-26,12
+en.wikipedia,Running,mobile-app,2023-01-27,6
+en.wikipedia,Running,mobile-app,2023-01-28,7
+en.wikipedia,Running,mobile-app,2023-01-29,8
+en.wikipedia,Running,mobile-app,2023-01-30,9
+en.wikipedia,Running,mobile-app,2023-01-31,19
+en.wikipedia,Running,mobile-web,2023-01-01,370
+en.wikipedia,Running,mobile-web,2023-01-02,462
+en.wikipedia,Running,mobile-web,2023-01-03,417
+en.wikipedia,Running,mobile-web,2023-01-04,458
+en.wikipedia,Running,mobile-web,2023-01-05,460
+en.wikipedia,Running,mobile-web,2023-01-06,421
+en.wikipedia,Running,mobile-web,2023-01-07,414
+en.wikipedia,Running,mobile-web,2023-01-08,434
+en.wikipedia,Running,mobile-web,2023-01-09,490
+en.wikipedia,Running,mobile-web,2023-01-10,406
+en.wikipedia,Running,mobile-web,2023-01-11,526
+en.wikipedia,Running,mobile-web,2023-01-12,548
+en.wikipedia,Running,mobile-web,2023-01-13,468
+en.wikipedia,Running,mobile-web,2023-01-14,437
+en.wikipedia,Running,mobile-web,2023-01-15,494
+en.wikipedia,Running,mobile-web,2023-01-16,526
+en.wikipedia,Running,mobile-web,2023-01-17,591
+en.wikipedia,Running,mobile-web,2023-01-18,530
+en.wikipedia,Running,mobile-web,2023-01-19,595
+en.wikipedia,Running,mobile-web,2023-01-20,578
+en.wikipedia,Running,mobile-web,2023-01-21,481
+en.wikipedia,Running,mobile-web,2023-01-22,558
+en.wikipedia,Running,mobile-web,2023-01-23,545
+en.wikipedia,Running,mobile-web,2023-01-24,520
+en.wikipedia,Running,mobile-web,2023-01-25,521
+en.wikipedia,Running,mobile-web,2023-01-26,471
+en.wikipedia,Running,mobile-web,2023-01-27,467
+en.wikipedia,Running,mobile-web,2023-01-28,475
+en.wikipedia,Running,mobile-web,2023-01-29,576
+en.wikipedia,Running,mobile-web,2023-01-30,538
+en.wikipedia,Running,mobile-web,2023-01-31,532
+en.wikipedia,Strava,desktop,2023-01-01,197
+en.wikipedia,Strava,desktop,2023-01-02,196
+en.wikipedia,Strava,desktop,2023-01-03,214
+en.wikipedia,Strava,desktop,2023-01-04,214
+en.wikipedia,Strava,desktop,2023-01-05,191
+en.wikipedia,Strava,desktop,2023-01-06,199
+en.wikipedia,Strava,desktop,2023-01-07,146
+en.wikipedia,Strava,desktop,2023-01-08,142
+en.wikipedia,Strava,desktop,2023-01-09,281
+en.wikipedia,Strava,desktop,2023-01-10,254
+en.wikipedia,Strava,desktop,2023-01-11,202
+en.wikipedia,Strava,desktop,2023-01-12,210
+en.wikipedia,Strava,desktop,2023-01-13,267
+en.wikipedia,Strava,desktop,2023-01-14,198
+en.wikipedia,Strava,desktop,2023-01-15,242
+en.wikipedia,Strava,desktop,2023-01-16,254
+en.wikipedia,Strava,desktop,2023-01-17,258
+en.wikipedia,Strava,desktop,2023-01-18,244
+en.wikipedia,Strava,desktop,2023-01-19,192
+en.wikipedia,Strava,desktop,2023-01-20,121
+en.wikipedia,Strava,desktop,2023-01-21,125
+en.wikipedia,Strava,desktop,2023-01-22,148
+en.wikipedia,Strava,desktop,2023-01-23,238
+en.wikipedia,Strava,desktop,2023-01-24,255
+en.wikipedia,Strava,desktop,2023-01-25,245
+en.wikipedia,Strava,desktop,2023-01-26,243
+en.wikipedia,Strava,desktop,2023-01-27,197
+en.wikipedia,Strava,desktop,2023-01-28,178
+en.wikipedia,Strava,desktop,2023-01-29,150
+en.wikipedia,Strava,desktop,2023-01-30,262
+en.wikipedia,Strava,desktop,2023-01-31,255
+en.wikipedia,Strava,mobile-app,2023-01-01,11
+en.wikipedia,Strava,mobile-app,2023-01-02,15
+en.wikipedia,Strava,mobile-app,2023-01-03,5
+en.wikipedia,Strava,mobile-app,2023-01-04,6
+en.wikipedia,Strava,mobile-app,2023-01-05,10
+en.wikipedia,Strava,mobile-app,2023-01-06,5
+en.wikipedia,Strava,mobile-app,2023-01-07,8
+en.wikipedia,Strava,mobile-app,2023-01-08,3
+en.wikipedia,Strava,mobile-app,2023-01-09,14
+en.wikipedia,Strava,mobile-app,2023-01-10,8
+en.wikipedia,Strava,mobile-app,2023-01-11,3
+en.wikipedia,Strava,mobile-app,2023-01-12,5
+en.wikipedia,Strava,mobile-app,2023-01-13,9
+en.wikipedia,Strava,mobile-app,2023-01-14,8
+en.wikipedia,Strava,mobile-app,2023-01-15,9
+en.wikipedia,Strava,mobile-app,2023-01-16,10
+en.wikipedia,Strava,mobile-app,2023-01-17,9
+en.wikipedia,Strava,mobile-app,2023-01-18,6
+en.wikipedia,Strava,mobile-app,2023-01-19,3
+en.wikipedia,Strava,mobile-app,2023-01-20,5
+en.wikipedia,Strava,mobile-app,2023-01-21,1
+en.wikipedia,Strava,mobile-app,2023-01-22,6
+en.wikipedia,Strava,mobile-app,2023-01-23,5
+en.wikipedia,Strava,mobile-app,2023-01-24,6
+en.wikipedia,Strava,mobile-app,2023-01-25,9
+en.wikipedia,Strava,mobile-app,2023-01-26,5
+en.wikipedia,Strava,mobile-app,2023-01-27,11
+en.wikipedia,Strava,mobile-app,2023-01-28,9
+en.wikipedia,Strava,mobile-app,2023-01-29,7
+en.wikipedia,Strava,mobile-app,2023-01-30,2
+en.wikipedia,Strava,mobile-app,2023-01-31,5
+en.wikipedia,Strava,mobile-web,2023-01-01,158
+en.wikipedia,Strava,mobile-web,2023-01-02,150
+en.wikipedia,Strava,mobile-web,2023-01-03,108
+en.wikipedia,Strava,mobile-web,2023-01-04,118
+en.wikipedia,Strava,mobile-web,2023-01-05,87
+en.wikipedia,Strava,mobile-web,2023-01-06,83
+en.wikipedia,Strava,mobile-web,2023-01-07,113
+en.wikipedia,Strava,mobile-web,2023-01-08,102
+en.wikipedia,Strava,mobile-web,2023-01-09,203
+en.wikipedia,Strava,mobile-web,2023-01-10,111
+en.wikipedia,Strava,mobile-web,2023-01-11,88
+en.wikipedia,Strava,mobile-web,2023-01-12,92
+en.wikipedia,Strava,mobile-web,2023-01-13,151
+en.wikipedia,Strava,mobile-web,2023-01-14,155
+en.wikipedia,Strava,mobile-web,2023-01-15,171
+en.wikipedia,Strava,mobile-web,2023-01-16,136
+en.wikipedia,Strava,mobile-web,2023-01-17,91
+en.wikipedia,Strava,mobile-web,2023-01-18,98
+en.wikipedia,Strava,mobile-web,2023-01-19,71
+en.wikipedia,Strava,mobile-web,2023-01-20,76
+en.wikipedia,Strava,mobile-web,2023-01-21,107
+en.wikipedia,Strava,mobile-web,2023-01-22,111
+en.wikipedia,Strava,mobile-web,2023-01-23,105
+en.wikipedia,Strava,mobile-web,2023-01-24,132
+en.wikipedia,Strava,mobile-web,2023-01-25,104
+en.wikipedia,Strava,mobile-web,2023-01-26,147
+en.wikipedia,Strava,mobile-web,2023-01-27,104
+en.wikipedia,Strava,mobile-web,2023-01-28,124
+en.wikipedia,Strava,mobile-web,2023-01-29,95
+en.wikipedia,Strava,mobile-web,2023-01-30,94
+en.wikipedia,Strava,mobile-web,2023-01-31,97

@@ -1,0 +1,541 @@
+project,article,access,view_date,views
+de.wikipedia,Strava,desktop,2025-09-01,32
+de.wikipedia,Strava,desktop,2025-09-02,15
+de.wikipedia,Strava,desktop,2025-09-03,6
+de.wikipedia,Strava,desktop,2025-09-04,26
+de.wikipedia,Strava,desktop,2025-09-05,27
+de.wikipedia,Strava,desktop,2025-09-06,10
+de.wikipedia,Strava,desktop,2025-09-07,21
+de.wikipedia,Strava,desktop,2025-09-08,27
+de.wikipedia,Strava,desktop,2025-09-09,17
+de.wikipedia,Strava,desktop,2025-09-10,19
+de.wikipedia,Strava,desktop,2025-09-11,21
+de.wikipedia,Strava,desktop,2025-09-12,32
+de.wikipedia,Strava,desktop,2025-09-13,16
+de.wikipedia,Strava,desktop,2025-09-14,19
+de.wikipedia,Strava,desktop,2025-09-15,32
+de.wikipedia,Strava,desktop,2025-09-16,18
+de.wikipedia,Strava,desktop,2025-09-17,24
+de.wikipedia,Strava,desktop,2025-09-18,27
+de.wikipedia,Strava,desktop,2025-09-19,17
+de.wikipedia,Strava,desktop,2025-09-20,5
+de.wikipedia,Strava,desktop,2025-09-21,31
+de.wikipedia,Strava,desktop,2025-09-22,45
+de.wikipedia,Strava,desktop,2025-09-23,28
+de.wikipedia,Strava,desktop,2025-09-24,25
+de.wikipedia,Strava,desktop,2025-09-25,23
+de.wikipedia,Strava,desktop,2025-09-26,12
+de.wikipedia,Strava,desktop,2025-09-27,17
+de.wikipedia,Strava,desktop,2025-09-28,16
+de.wikipedia,Strava,desktop,2025-09-29,23
+de.wikipedia,Strava,desktop,2025-09-30,25
+de.wikipedia,Strava,mobile-app,2025-09-01,1
+de.wikipedia,Strava,mobile-app,2025-09-02,4
+de.wikipedia,Strava,mobile-app,2025-09-03,3
+de.wikipedia,Strava,mobile-app,2025-09-04,5
+de.wikipedia,Strava,mobile-app,2025-09-05,1
+de.wikipedia,Strava,mobile-app,2025-09-06,1
+de.wikipedia,Strava,mobile-app,2025-09-07,6
+de.wikipedia,Strava,mobile-app,2025-09-08,5
+de.wikipedia,Strava,mobile-app,2025-09-09,10
+de.wikipedia,Strava,mobile-app,2025-09-10,1
+de.wikipedia,Strava,mobile-app,2025-09-11,3
+de.wikipedia,Strava,mobile-app,2025-09-12,5
+de.wikipedia,Strava,mobile-app,2025-09-13,6
+de.wikipedia,Strava,mobile-app,2025-09-14,8
+de.wikipedia,Strava,mobile-app,2025-09-15,2
+de.wikipedia,Strava,mobile-app,2025-09-16,5
+de.wikipedia,Strava,mobile-app,2025-09-17,5
+de.wikipedia,Strava,mobile-app,2025-09-18,4
+de.wikipedia,Strava,mobile-app,2025-09-19,5
+de.wikipedia,Strava,mobile-app,2025-09-20,7
+de.wikipedia,Strava,mobile-app,2025-09-21,22
+de.wikipedia,Strava,mobile-app,2025-09-22,19
+de.wikipedia,Strava,mobile-app,2025-09-23,7
+de.wikipedia,Strava,mobile-app,2025-09-24,0
+de.wikipedia,Strava,mobile-app,2025-09-25,4
+de.wikipedia,Strava,mobile-app,2025-09-26,2
+de.wikipedia,Strava,mobile-app,2025-09-27,3
+de.wikipedia,Strava,mobile-app,2025-09-28,7
+de.wikipedia,Strava,mobile-app,2025-09-29,3
+de.wikipedia,Strava,mobile-app,2025-09-30,2
+de.wikipedia,Strava,mobile-web,2025-09-01,34
+de.wikipedia,Strava,mobile-web,2025-09-02,34
+de.wikipedia,Strava,mobile-web,2025-09-03,33
+de.wikipedia,Strava,mobile-web,2025-09-04,42
+de.wikipedia,Strava,mobile-web,2025-09-05,32
+de.wikipedia,Strava,mobile-web,2025-09-06,49
+de.wikipedia,Strava,mobile-web,2025-09-07,75
+de.wikipedia,Strava,mobile-web,2025-09-08,35
+de.wikipedia,Strava,mobile-web,2025-09-09,29
+de.wikipedia,Strava,mobile-web,2025-09-10,32
+de.wikipedia,Strava,mobile-web,2025-09-11,29
+de.wikipedia,Strava,mobile-web,2025-09-12,51
+de.wikipedia,Strava,mobile-web,2025-09-13,48
+de.wikipedia,Strava,mobile-web,2025-09-14,45
+de.wikipedia,Strava,mobile-web,2025-09-15,33
+de.wikipedia,Strava,mobile-web,2025-09-16,42
+de.wikipedia,Strava,mobile-web,2025-09-17,33
+de.wikipedia,Strava,mobile-web,2025-09-18,44
+de.wikipedia,Strava,mobile-web,2025-09-19,40
+de.wikipedia,Strava,mobile-web,2025-09-20,48
+de.wikipedia,Strava,mobile-web,2025-09-21,123
+de.wikipedia,Strava,mobile-web,2025-09-22,52
+de.wikipedia,Strava,mobile-web,2025-09-23,59
+de.wikipedia,Strava,mobile-web,2025-09-24,36
+de.wikipedia,Strava,mobile-web,2025-09-25,29
+de.wikipedia,Strava,mobile-web,2025-09-26,38
+de.wikipedia,Strava,mobile-web,2025-09-27,32
+de.wikipedia,Strava,mobile-web,2025-09-28,54
+de.wikipedia,Strava,mobile-web,2025-09-29,36
+de.wikipedia,Strava,mobile-web,2025-09-30,24
+en.wikipedia,Garmin,desktop,2025-09-01,296
+en.wikipedia,Garmin,desktop,2025-09-02,407
+en.wikipedia,Garmin,desktop,2025-09-03,450
+en.wikipedia,Garmin,desktop,2025-09-04,424
+en.wikipedia,Garmin,desktop,2025-09-05,331
+en.wikipedia,Garmin,desktop,2025-09-06,236
+en.wikipedia,Garmin,desktop,2025-09-07,297
+en.wikipedia,Garmin,desktop,2025-09-08,442
+en.wikipedia,Garmin,desktop,2025-09-09,420
+en.wikipedia,Garmin,desktop,2025-09-10,370
+en.wikipedia,Garmin,desktop,2025-09-11,324
+en.wikipedia,Garmin,desktop,2025-09-12,304
+en.wikipedia,Garmin,desktop,2025-09-13,215
+en.wikipedia,Garmin,desktop,2025-09-14,266
+en.wikipedia,Garmin,desktop,2025-09-15,351
+en.wikipedia,Garmin,desktop,2025-09-16,395
+en.wikipedia,Garmin,desktop,2025-09-17,354
+en.wikipedia,Garmin,desktop,2025-09-18,400
+en.wikipedia,Garmin,desktop,2025-09-19,327
+en.wikipedia,Garmin,desktop,2025-09-20,204
+en.wikipedia,Garmin,desktop,2025-09-21,258
+en.wikipedia,Garmin,desktop,2025-09-22,397
+en.wikipedia,Garmin,desktop,2025-09-23,380
+en.wikipedia,Garmin,desktop,2025-09-24,365
+en.wikipedia,Garmin,desktop,2025-09-25,341
+en.wikipedia,Garmin,desktop,2025-09-26,278
+en.wikipedia,Garmin,desktop,2025-09-27,222
+en.wikipedia,Garmin,desktop,2025-09-28,253
+en.wikipedia,Garmin,desktop,2025-09-29,342
+en.wikipedia,Garmin,desktop,2025-09-30,322
+en.wikipedia,Garmin,mobile-app,2025-09-01,35
+en.wikipedia,Garmin,mobile-app,2025-09-02,18
+en.wikipedia,Garmin,mobile-app,2025-09-03,16
+en.wikipedia,Garmin,mobile-app,2025-09-04,16
+en.wikipedia,Garmin,mobile-app,2025-09-05,25
+en.wikipedia,Garmin,mobile-app,2025-09-06,30
+en.wikipedia,Garmin,mobile-app,2025-09-07,26
+en.wikipedia,Garmin,mobile-app,2025-09-08,26
+en.wikipedia,Garmin,mobile-app,2025-09-09,20
+en.wikipedia,Garmin,mobile-app,2025-09-10,29
+en.wikipedia,Garmin,mobile-app,2025-09-11,18
+en.wikipedia,Garmin,mobile-app,2025-09-12,22
+en.wikipedia,Garmin,mobile-app,2025-09-13,36
+en.wikipedia,Garmin,mobile-app,2025-09-14,26
+en.wikipedia,Garmin,mobile-app,2025-09-15,29
+en.wikipedia,Garmin,mobile-app,2025-09-16,23
+en.wikipedia,Garmin,mobile-app,2025-09-17,28
+en.wikipedia,Garmin,mobile-app,2025-09-18,38
+en.wikipedia,Garmin,mobile-app,2025-09-19,20
+en.wikipedia,Garmin,mobile-app,2025-09-20,33
+en.wikipedia,Garmin,mobile-app,2025-09-21,32
+en.wikipedia,Garmin,mobile-app,2025-09-22,28
+en.wikipedia,Garmin,mobile-app,2025-09-23,24
+en.wikipedia,Garmin,mobile-app,2025-09-24,17
+en.wikipedia,Garmin,mobile-app,2025-09-25,15
+en.wikipedia,Garmin,mobile-app,2025-09-26,30
+en.wikipedia,Garmin,mobile-app,2025-09-27,37
+en.wikipedia,Garmin,mobile-app,2025-09-28,21
+en.wikipedia,Garmin,mobile-app,2025-09-29,15
+en.wikipedia,Garmin,mobile-app,2025-09-30,16
+en.wikipedia,Garmin,mobile-web,2025-09-01,450
+en.wikipedia,Garmin,mobile-web,2025-09-02,425
+en.wikipedia,Garmin,mobile-web,2025-09-03,503
+en.wikipedia,Garmin,mobile-web,2025-09-04,486
+en.wikipedia,Garmin,mobile-web,2025-09-05,456
+en.wikipedia,Garmin,mobile-web,2025-09-06,521
+en.wikipedia,Garmin,mobile-web,2025-09-07,599
+en.wikipedia,Garmin,mobile-web,2025-09-08,429
+en.wikipedia,Garmin,mobile-web,2025-09-09,473
+en.wikipedia,Garmin,mobile-web,2025-09-10,494
+en.wikipedia,Garmin,mobile-web,2025-09-11,443
+en.wikipedia,Garmin,mobile-web,2025-09-12,426
+en.wikipedia,Garmin,mobile-web,2025-09-13,518
+en.wikipedia,Garmin,mobile-web,2025-09-14,564
+en.wikipedia,Garmin,mobile-web,2025-09-15,409
+en.wikipedia,Garmin,mobile-web,2025-09-16,414
+en.wikipedia,Garmin,mobile-web,2025-09-17,454
+en.wikipedia,Garmin,mobile-web,2025-09-18,423
+en.wikipedia,Garmin,mobile-web,2025-09-19,439
+en.wikipedia,Garmin,mobile-web,2025-09-20,473
+en.wikipedia,Garmin,mobile-web,2025-09-21,500
+en.wikipedia,Garmin,mobile-web,2025-09-22,409
+en.wikipedia,Garmin,mobile-web,2025-09-23,407
+en.wikipedia,Garmin,mobile-web,2025-09-24,384
+en.wikipedia,Garmin,mobile-web,2025-09-25,383
+en.wikipedia,Garmin,mobile-web,2025-09-26,363
+en.wikipedia,Garmin,mobile-web,2025-09-27,430
+en.wikipedia,Garmin,mobile-web,2025-09-28,430
+en.wikipedia,Garmin,mobile-web,2025-09-29,428
+en.wikipedia,Garmin,mobile-web,2025-09-30,390
+en.wikipedia,Peloton Interactive,desktop,2025-09-01,92
+en.wikipedia,Peloton Interactive,desktop,2025-09-02,103
+en.wikipedia,Peloton Interactive,desktop,2025-09-03,95
+en.wikipedia,Peloton Interactive,desktop,2025-09-04,103
+en.wikipedia,Peloton Interactive,desktop,2025-09-05,108
+en.wikipedia,Peloton Interactive,desktop,2025-09-06,67
+en.wikipedia,Peloton Interactive,desktop,2025-09-07,50
+en.wikipedia,Peloton Interactive,desktop,2025-09-08,92
+en.wikipedia,Peloton Interactive,desktop,2025-09-09,105
+en.wikipedia,Peloton Interactive,desktop,2025-09-10,71
+en.wikipedia,Peloton Interactive,desktop,2025-09-11,84
+en.wikipedia,Peloton Interactive,desktop,2025-09-12,72
+en.wikipedia,Peloton Interactive,desktop,2025-09-13,50
+en.wikipedia,Peloton Interactive,desktop,2025-09-14,58
+en.wikipedia,Peloton Interactive,desktop,2025-09-15,115
+en.wikipedia,Peloton Interactive,desktop,2025-09-16,118
+en.wikipedia,Peloton Interactive,desktop,2025-09-17,96
+en.wikipedia,Peloton Interactive,desktop,2025-09-18,108
+en.wikipedia,Peloton Interactive,desktop,2025-09-19,80
+en.wikipedia,Peloton Interactive,desktop,2025-09-20,51
+en.wikipedia,Peloton Interactive,desktop,2025-09-21,64
+en.wikipedia,Peloton Interactive,desktop,2025-09-22,119
+en.wikipedia,Peloton Interactive,desktop,2025-09-23,112
+en.wikipedia,Peloton Interactive,desktop,2025-09-24,104
+en.wikipedia,Peloton Interactive,desktop,2025-09-25,126
+en.wikipedia,Peloton Interactive,desktop,2025-09-26,66
+en.wikipedia,Peloton Interactive,desktop,2025-09-27,52
+en.wikipedia,Peloton Interactive,desktop,2025-09-28,51
+en.wikipedia,Peloton Interactive,desktop,2025-09-29,121
+en.wikipedia,Peloton Interactive,desktop,2025-09-30,108
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-01,6
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-02,12
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-03,19
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-04,14
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-05,7
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-06,12
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-07,13
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-08,6
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-09,7
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-10,5
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-11,9
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-12,4
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-13,10
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-14,5
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-15,7
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-16,11
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-17,3
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-18,10
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-19,6
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-20,7
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-21,6
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-22,2
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-23,5
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-24,8
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-25,6
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-26,10
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-27,5
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-28,7
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-29,8
+en.wikipedia,Peloton Interactive,mobile-app,2025-09-30,7
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-01,99
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-02,127
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-03,79
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-04,110
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-05,93
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-06,102
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-07,102
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-08,96
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-09,84
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-10,73
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-11,74
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-12,82
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-13,75
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-14,93
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-15,110
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-16,74
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-17,63
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-18,79
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-19,70
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-20,92
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-21,69
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-22,81
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-23,70
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-24,80
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-25,85
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-26,60
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-27,68
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-28,72
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-29,84
+en.wikipedia,Peloton Interactive,mobile-web,2025-09-30,97
+en.wikipedia,Running,desktop,2025-09-01,176
+en.wikipedia,Running,desktop,2025-09-02,216
+en.wikipedia,Running,desktop,2025-09-03,182
+en.wikipedia,Running,desktop,2025-09-04,209
+en.wikipedia,Running,desktop,2025-09-05,193
+en.wikipedia,Running,desktop,2025-09-06,116
+en.wikipedia,Running,desktop,2025-09-07,145
+en.wikipedia,Running,desktop,2025-09-08,222
+en.wikipedia,Running,desktop,2025-09-09,172
+en.wikipedia,Running,desktop,2025-09-10,200
+en.wikipedia,Running,desktop,2025-09-11,199
+en.wikipedia,Running,desktop,2025-09-12,188
+en.wikipedia,Running,desktop,2025-09-13,145
+en.wikipedia,Running,desktop,2025-09-14,131
+en.wikipedia,Running,desktop,2025-09-15,167
+en.wikipedia,Running,desktop,2025-09-16,200
+en.wikipedia,Running,desktop,2025-09-17,214
+en.wikipedia,Running,desktop,2025-09-18,179
+en.wikipedia,Running,desktop,2025-09-19,202
+en.wikipedia,Running,desktop,2025-09-20,133
+en.wikipedia,Running,desktop,2025-09-21,121
+en.wikipedia,Running,desktop,2025-09-22,190
+en.wikipedia,Running,desktop,2025-09-23,245
+en.wikipedia,Running,desktop,2025-09-24,244
+en.wikipedia,Running,desktop,2025-09-25,189
+en.wikipedia,Running,desktop,2025-09-26,204
+en.wikipedia,Running,desktop,2025-09-27,145
+en.wikipedia,Running,desktop,2025-09-28,140
+en.wikipedia,Running,desktop,2025-09-29,201
+en.wikipedia,Running,desktop,2025-09-30,206
+en.wikipedia,Running,mobile-app,2025-09-01,16
+en.wikipedia,Running,mobile-app,2025-09-02,11
+en.wikipedia,Running,mobile-app,2025-09-03,12
+en.wikipedia,Running,mobile-app,2025-09-04,8
+en.wikipedia,Running,mobile-app,2025-09-05,21
+en.wikipedia,Running,mobile-app,2025-09-06,10
+en.wikipedia,Running,mobile-app,2025-09-07,8
+en.wikipedia,Running,mobile-app,2025-09-08,17
+en.wikipedia,Running,mobile-app,2025-09-09,13
+en.wikipedia,Running,mobile-app,2025-09-10,10
+en.wikipedia,Running,mobile-app,2025-09-11,7
+en.wikipedia,Running,mobile-app,2025-09-12,9
+en.wikipedia,Running,mobile-app,2025-09-13,10
+en.wikipedia,Running,mobile-app,2025-09-14,20
+en.wikipedia,Running,mobile-app,2025-09-15,11
+en.wikipedia,Running,mobile-app,2025-09-16,13
+en.wikipedia,Running,mobile-app,2025-09-17,10
+en.wikipedia,Running,mobile-app,2025-09-18,13
+en.wikipedia,Running,mobile-app,2025-09-19,4
+en.wikipedia,Running,mobile-app,2025-09-20,8
+en.wikipedia,Running,mobile-app,2025-09-21,7
+en.wikipedia,Running,mobile-app,2025-09-22,13
+en.wikipedia,Running,mobile-app,2025-09-23,8
+en.wikipedia,Running,mobile-app,2025-09-24,13
+en.wikipedia,Running,mobile-app,2025-09-25,5
+en.wikipedia,Running,mobile-app,2025-09-26,10
+en.wikipedia,Running,mobile-app,2025-09-27,13
+en.wikipedia,Running,mobile-app,2025-09-28,7
+en.wikipedia,Running,mobile-app,2025-09-29,16
+en.wikipedia,Running,mobile-app,2025-09-30,5
+en.wikipedia,Running,mobile-web,2025-09-01,231
+en.wikipedia,Running,mobile-web,2025-09-02,217
+en.wikipedia,Running,mobile-web,2025-09-03,248
+en.wikipedia,Running,mobile-web,2025-09-04,223
+en.wikipedia,Running,mobile-web,2025-09-05,216
+en.wikipedia,Running,mobile-web,2025-09-06,251
+en.wikipedia,Running,mobile-web,2025-09-07,212
+en.wikipedia,Running,mobile-web,2025-09-08,196
+en.wikipedia,Running,mobile-web,2025-09-09,195
+en.wikipedia,Running,mobile-web,2025-09-10,199
+en.wikipedia,Running,mobile-web,2025-09-11,195
+en.wikipedia,Running,mobile-web,2025-09-12,207
+en.wikipedia,Running,mobile-web,2025-09-13,241
+en.wikipedia,Running,mobile-web,2025-09-14,242
+en.wikipedia,Running,mobile-web,2025-09-15,231
+en.wikipedia,Running,mobile-web,2025-09-16,227
+en.wikipedia,Running,mobile-web,2025-09-17,247
+en.wikipedia,Running,mobile-web,2025-09-18,256
+en.wikipedia,Running,mobile-web,2025-09-19,222
+en.wikipedia,Running,mobile-web,2025-09-20,199
+en.wikipedia,Running,mobile-web,2025-09-21,255
+en.wikipedia,Running,mobile-web,2025-09-22,205
+en.wikipedia,Running,mobile-web,2025-09-23,237
+en.wikipedia,Running,mobile-web,2025-09-24,217
+en.wikipedia,Running,mobile-web,2025-09-25,192
+en.wikipedia,Running,mobile-web,2025-09-26,180
+en.wikipedia,Running,mobile-web,2025-09-27,184
+en.wikipedia,Running,mobile-web,2025-09-28,239
+en.wikipedia,Running,mobile-web,2025-09-29,191
+en.wikipedia,Running,mobile-web,2025-09-30,179
+en.wikipedia,Strava,desktop,2025-09-01,176
+en.wikipedia,Strava,desktop,2025-09-02,194
+en.wikipedia,Strava,desktop,2025-09-03,136
+en.wikipedia,Strava,desktop,2025-09-04,139
+en.wikipedia,Strava,desktop,2025-09-05,124
+en.wikipedia,Strava,desktop,2025-09-06,84
+en.wikipedia,Strava,desktop,2025-09-07,124
+en.wikipedia,Strava,desktop,2025-09-08,208
+en.wikipedia,Strava,desktop,2025-09-09,148
+en.wikipedia,Strava,desktop,2025-09-10,144
+en.wikipedia,Strava,desktop,2025-09-11,153
+en.wikipedia,Strava,desktop,2025-09-12,151
+en.wikipedia,Strava,desktop,2025-09-13,85
+en.wikipedia,Strava,desktop,2025-09-14,87
+en.wikipedia,Strava,desktop,2025-09-15,172
+en.wikipedia,Strava,desktop,2025-09-16,141
+en.wikipedia,Strava,desktop,2025-09-17,174
+en.wikipedia,Strava,desktop,2025-09-18,200
+en.wikipedia,Strava,desktop,2025-09-19,151
+en.wikipedia,Strava,desktop,2025-09-20,82
+en.wikipedia,Strava,desktop,2025-09-21,94
+en.wikipedia,Strava,desktop,2025-09-22,165
+en.wikipedia,Strava,desktop,2025-09-23,174
+en.wikipedia,Strava,desktop,2025-09-24,173
+en.wikipedia,Strava,desktop,2025-09-25,165
+en.wikipedia,Strava,desktop,2025-09-26,158
+en.wikipedia,Strava,desktop,2025-09-27,62
+en.wikipedia,Strava,desktop,2025-09-28,102
+en.wikipedia,Strava,desktop,2025-09-29,181
+en.wikipedia,Strava,desktop,2025-09-30,154
+en.wikipedia,Strava,mobile-app,2025-09-01,12
+en.wikipedia,Strava,mobile-app,2025-09-02,12
+en.wikipedia,Strava,mobile-app,2025-09-03,9
+en.wikipedia,Strava,mobile-app,2025-09-04,9
+en.wikipedia,Strava,mobile-app,2025-09-05,8
+en.wikipedia,Strava,mobile-app,2025-09-06,10
+en.wikipedia,Strava,mobile-app,2025-09-07,18
+en.wikipedia,Strava,mobile-app,2025-09-08,10
+en.wikipedia,Strava,mobile-app,2025-09-09,12
+en.wikipedia,Strava,mobile-app,2025-09-10,6
+en.wikipedia,Strava,mobile-app,2025-09-11,7
+en.wikipedia,Strava,mobile-app,2025-09-12,11
+en.wikipedia,Strava,mobile-app,2025-09-13,14
+en.wikipedia,Strava,mobile-app,2025-09-14,14
+en.wikipedia,Strava,mobile-app,2025-09-15,8
+en.wikipedia,Strava,mobile-app,2025-09-16,6
+en.wikipedia,Strava,mobile-app,2025-09-17,12
+en.wikipedia,Strava,mobile-app,2025-09-18,11
+en.wikipedia,Strava,mobile-app,2025-09-19,11
+en.wikipedia,Strava,mobile-app,2025-09-20,15
+en.wikipedia,Strava,mobile-app,2025-09-21,9
+en.wikipedia,Strava,mobile-app,2025-09-22,13
+en.wikipedia,Strava,mobile-app,2025-09-23,9
+en.wikipedia,Strava,mobile-app,2025-09-24,6
+en.wikipedia,Strava,mobile-app,2025-09-25,9
+en.wikipedia,Strava,mobile-app,2025-09-26,7
+en.wikipedia,Strava,mobile-app,2025-09-27,11
+en.wikipedia,Strava,mobile-app,2025-09-28,13
+en.wikipedia,Strava,mobile-app,2025-09-29,3
+en.wikipedia,Strava,mobile-app,2025-09-30,6
+en.wikipedia,Strava,mobile-web,2025-09-01,245
+en.wikipedia,Strava,mobile-web,2025-09-02,217
+en.wikipedia,Strava,mobile-web,2025-09-03,220
+en.wikipedia,Strava,mobile-web,2025-09-04,272
+en.wikipedia,Strava,mobile-web,2025-09-05,200
+en.wikipedia,Strava,mobile-web,2025-09-06,246
+en.wikipedia,Strava,mobile-web,2025-09-07,317
+en.wikipedia,Strava,mobile-web,2025-09-08,265
+en.wikipedia,Strava,mobile-web,2025-09-09,232
+en.wikipedia,Strava,mobile-web,2025-09-10,181
+en.wikipedia,Strava,mobile-web,2025-09-11,138
+en.wikipedia,Strava,mobile-web,2025-09-12,174
+en.wikipedia,Strava,mobile-web,2025-09-13,174
+en.wikipedia,Strava,mobile-web,2025-09-14,255
+en.wikipedia,Strava,mobile-web,2025-09-15,214
+en.wikipedia,Strava,mobile-web,2025-09-16,245
+en.wikipedia,Strava,mobile-web,2025-09-17,199
+en.wikipedia,Strava,mobile-web,2025-09-18,235
+en.wikipedia,Strava,mobile-web,2025-09-19,240
+en.wikipedia,Strava,mobile-web,2025-09-20,255
+en.wikipedia,Strava,mobile-web,2025-09-21,264
+en.wikipedia,Strava,mobile-web,2025-09-22,233
+en.wikipedia,Strava,mobile-web,2025-09-23,214
+en.wikipedia,Strava,mobile-web,2025-09-24,202
+en.wikipedia,Strava,mobile-web,2025-09-25,202
+en.wikipedia,Strava,mobile-web,2025-09-26,210
+en.wikipedia,Strava,mobile-web,2025-09-27,194
+en.wikipedia,Strava,mobile-web,2025-09-28,247
+en.wikipedia,Strava,mobile-web,2025-09-29,225
+en.wikipedia,Strava,mobile-web,2025-09-30,218
+en.wikipedia,Whoop (company),desktop,2025-09-01,7
+en.wikipedia,Whoop (company),desktop,2025-09-02,8
+en.wikipedia,Whoop (company),desktop,2025-09-03,20
+en.wikipedia,Whoop (company),desktop,2025-09-04,7
+en.wikipedia,Whoop (company),desktop,2025-09-05,12
+en.wikipedia,Whoop (company),desktop,2025-09-06,11
+en.wikipedia,Whoop (company),desktop,2025-09-07,10
+en.wikipedia,Whoop (company),desktop,2025-09-08,10
+en.wikipedia,Whoop (company),desktop,2025-09-09,10
+en.wikipedia,Whoop (company),desktop,2025-09-10,13
+en.wikipedia,Whoop (company),desktop,2025-09-11,13
+en.wikipedia,Whoop (company),desktop,2025-09-12,3
+en.wikipedia,Whoop (company),desktop,2025-09-13,2
+en.wikipedia,Whoop (company),desktop,2025-09-14,2
+en.wikipedia,Whoop (company),desktop,2025-09-15,8
+en.wikipedia,Whoop (company),desktop,2025-09-16,6
+en.wikipedia,Whoop (company),desktop,2025-09-17,6
+en.wikipedia,Whoop (company),desktop,2025-09-18,5
+en.wikipedia,Whoop (company),desktop,2025-09-19,11
+en.wikipedia,Whoop (company),desktop,2025-09-20,0
+en.wikipedia,Whoop (company),desktop,2025-09-21,9
+en.wikipedia,Whoop (company),desktop,2025-09-22,8
+en.wikipedia,Whoop (company),desktop,2025-09-23,9
+en.wikipedia,Whoop (company),desktop,2025-09-24,10
+en.wikipedia,Whoop (company),desktop,2025-09-25,21
+en.wikipedia,Whoop (company),desktop,2025-09-26,8
+en.wikipedia,Whoop (company),desktop,2025-09-27,6
+en.wikipedia,Whoop (company),desktop,2025-09-28,17
+en.wikipedia,Whoop (company),desktop,2025-09-29,16
+en.wikipedia,Whoop (company),desktop,2025-09-30,9
+en.wikipedia,Whoop (company),mobile-app,2025-09-01,1
+en.wikipedia,Whoop (company),mobile-app,2025-09-02,1
+en.wikipedia,Whoop (company),mobile-app,2025-09-03,1
+en.wikipedia,Whoop (company),mobile-app,2025-09-04,1
+en.wikipedia,Whoop (company),mobile-app,2025-09-05,2
+en.wikipedia,Whoop (company),mobile-app,2025-09-06,1
+en.wikipedia,Whoop (company),mobile-app,2025-09-07,0
+en.wikipedia,Whoop (company),mobile-app,2025-09-08,0
+en.wikipedia,Whoop (company),mobile-app,2025-09-09,0
+en.wikipedia,Whoop (company),mobile-app,2025-09-10,1
+en.wikipedia,Whoop (company),mobile-app,2025-09-11,0
+en.wikipedia,Whoop (company),mobile-app,2025-09-12,2
+en.wikipedia,Whoop (company),mobile-app,2025-09-13,0
+en.wikipedia,Whoop (company),mobile-app,2025-09-14,2
+en.wikipedia,Whoop (company),mobile-app,2025-09-15,1
+en.wikipedia,Whoop (company),mobile-app,2025-09-16,1
+en.wikipedia,Whoop (company),mobile-app,2025-09-17,0
+en.wikipedia,Whoop (company),mobile-app,2025-09-18,0
+en.wikipedia,Whoop (company),mobile-app,2025-09-19,1
+en.wikipedia,Whoop (company),mobile-app,2025-09-20,0
+en.wikipedia,Whoop (company),mobile-app,2025-09-21,0
+en.wikipedia,Whoop (company),mobile-app,2025-09-22,0
+en.wikipedia,Whoop (company),mobile-app,2025-09-23,1
+en.wikipedia,Whoop (company),mobile-app,2025-09-24,3
+en.wikipedia,Whoop (company),mobile-app,2025-09-25,0
+en.wikipedia,Whoop (company),mobile-app,2025-09-26,2
+en.wikipedia,Whoop (company),mobile-app,2025-09-27,3
+en.wikipedia,Whoop (company),mobile-app,2025-09-28,2
+en.wikipedia,Whoop (company),mobile-app,2025-09-29,3
+en.wikipedia,Whoop (company),mobile-app,2025-09-30,2
+en.wikipedia,Whoop (company),mobile-web,2025-09-01,14
+en.wikipedia,Whoop (company),mobile-web,2025-09-02,14
+en.wikipedia,Whoop (company),mobile-web,2025-09-03,17
+en.wikipedia,Whoop (company),mobile-web,2025-09-04,11
+en.wikipedia,Whoop (company),mobile-web,2025-09-05,12
+en.wikipedia,Whoop (company),mobile-web,2025-09-06,21
+en.wikipedia,Whoop (company),mobile-web,2025-09-07,15
+en.wikipedia,Whoop (company),mobile-web,2025-09-08,16
+en.wikipedia,Whoop (company),mobile-web,2025-09-09,13
+en.wikipedia,Whoop (company),mobile-web,2025-09-10,11
+en.wikipedia,Whoop (company),mobile-web,2025-09-11,13
+en.wikipedia,Whoop (company),mobile-web,2025-09-12,15
+en.wikipedia,Whoop (company),mobile-web,2025-09-13,12
+en.wikipedia,Whoop (company),mobile-web,2025-09-14,15
+en.wikipedia,Whoop (company),mobile-web,2025-09-15,4
+en.wikipedia,Whoop (company),mobile-web,2025-09-16,9
+en.wikipedia,Whoop (company),mobile-web,2025-09-17,6
+en.wikipedia,Whoop (company),mobile-web,2025-09-18,9
+en.wikipedia,Whoop (company),mobile-web,2025-09-19,5
+en.wikipedia,Whoop (company),mobile-web,2025-09-20,12
+en.wikipedia,Whoop (company),mobile-web,2025-09-21,14
+en.wikipedia,Whoop (company),mobile-web,2025-09-22,12
+en.wikipedia,Whoop (company),mobile-web,2025-09-23,16
+en.wikipedia,Whoop (company),mobile-web,2025-09-24,12
+en.wikipedia,Whoop (company),mobile-web,2025-09-25,14
+en.wikipedia,Whoop (company),mobile-web,2025-09-26,19
+en.wikipedia,Whoop (company),mobile-web,2025-09-27,26
+en.wikipedia,Whoop (company),mobile-web,2025-09-28,69
+en.wikipedia,Whoop (company),mobile-web,2025-09-29,87
+en.wikipedia,Whoop (company),mobile-web,2025-09-30,41

@@ -1,0 +1,424 @@
+project,article,access,view_date,views
+de.wikipedia,Strava,desktop,2020-09-01,49
+de.wikipedia,Strava,desktop,2020-09-02,44
+de.wikipedia,Strava,desktop,2020-09-03,30
+de.wikipedia,Strava,desktop,2020-09-04,37
+de.wikipedia,Strava,desktop,2020-09-05,28
+de.wikipedia,Strava,desktop,2020-09-06,40
+de.wikipedia,Strava,desktop,2020-09-07,62
+de.wikipedia,Strava,desktop,2020-09-08,53
+de.wikipedia,Strava,desktop,2020-09-09,50
+de.wikipedia,Strava,desktop,2020-09-10,43
+de.wikipedia,Strava,desktop,2020-09-11,40
+de.wikipedia,Strava,desktop,2020-09-12,32
+de.wikipedia,Strava,desktop,2020-09-13,36
+de.wikipedia,Strava,desktop,2020-09-14,46
+de.wikipedia,Strava,desktop,2020-09-15,42
+de.wikipedia,Strava,desktop,2020-09-16,45
+de.wikipedia,Strava,desktop,2020-09-17,42
+de.wikipedia,Strava,desktop,2020-09-18,49
+de.wikipedia,Strava,desktop,2020-09-19,24
+de.wikipedia,Strava,desktop,2020-09-20,47
+de.wikipedia,Strava,desktop,2020-09-21,57
+de.wikipedia,Strava,desktop,2020-09-22,45
+de.wikipedia,Strava,desktop,2020-09-23,43
+de.wikipedia,Strava,desktop,2020-09-24,45
+de.wikipedia,Strava,desktop,2020-09-25,34
+de.wikipedia,Strava,desktop,2020-09-26,25
+de.wikipedia,Strava,desktop,2020-09-27,40
+de.wikipedia,Strava,desktop,2020-09-28,57
+de.wikipedia,Strava,desktop,2020-09-29,44
+de.wikipedia,Strava,desktop,2020-09-30,27
+de.wikipedia,Strava,mobile-app,2020-09-01,5
+de.wikipedia,Strava,mobile-app,2020-09-02,5
+de.wikipedia,Strava,mobile-app,2020-09-03,1
+de.wikipedia,Strava,mobile-app,2020-09-04,2
+de.wikipedia,Strava,mobile-app,2020-09-05,4
+de.wikipedia,Strava,mobile-app,2020-09-06,5
+de.wikipedia,Strava,mobile-app,2020-09-07,10
+de.wikipedia,Strava,mobile-app,2020-09-08,2
+de.wikipedia,Strava,mobile-app,2020-09-09,0
+de.wikipedia,Strava,mobile-app,2020-09-10,1
+de.wikipedia,Strava,mobile-app,2020-09-11,6
+de.wikipedia,Strava,mobile-app,2020-09-12,5
+de.wikipedia,Strava,mobile-app,2020-09-13,11
+de.wikipedia,Strava,mobile-app,2020-09-14,1
+de.wikipedia,Strava,mobile-app,2020-09-15,0
+de.wikipedia,Strava,mobile-app,2020-09-16,9
+de.wikipedia,Strava,mobile-app,2020-09-17,2
+de.wikipedia,Strava,mobile-app,2020-09-18,3
+de.wikipedia,Strava,mobile-app,2020-09-19,1
+de.wikipedia,Strava,mobile-app,2020-09-20,6
+de.wikipedia,Strava,mobile-app,2020-09-21,3
+de.wikipedia,Strava,mobile-app,2020-09-22,4
+de.wikipedia,Strava,mobile-app,2020-09-23,3
+de.wikipedia,Strava,mobile-app,2020-09-24,4
+de.wikipedia,Strava,mobile-app,2020-09-25,3
+de.wikipedia,Strava,mobile-app,2020-09-26,1
+de.wikipedia,Strava,mobile-app,2020-09-27,2
+de.wikipedia,Strava,mobile-app,2020-09-28,0
+de.wikipedia,Strava,mobile-app,2020-09-29,1
+de.wikipedia,Strava,mobile-app,2020-09-30,4
+de.wikipedia,Strava,mobile-web,2020-09-01,29
+de.wikipedia,Strava,mobile-web,2020-09-02,27
+de.wikipedia,Strava,mobile-web,2020-09-03,35
+de.wikipedia,Strava,mobile-web,2020-09-04,27
+de.wikipedia,Strava,mobile-web,2020-09-05,23
+de.wikipedia,Strava,mobile-web,2020-09-06,61
+de.wikipedia,Strava,mobile-web,2020-09-07,32
+de.wikipedia,Strava,mobile-web,2020-09-08,25
+de.wikipedia,Strava,mobile-web,2020-09-09,20
+de.wikipedia,Strava,mobile-web,2020-09-10,17
+de.wikipedia,Strava,mobile-web,2020-09-11,32
+de.wikipedia,Strava,mobile-web,2020-09-12,48
+de.wikipedia,Strava,mobile-web,2020-09-13,55
+de.wikipedia,Strava,mobile-web,2020-09-14,37
+de.wikipedia,Strava,mobile-web,2020-09-15,25
+de.wikipedia,Strava,mobile-web,2020-09-16,26
+de.wikipedia,Strava,mobile-web,2020-09-17,23
+de.wikipedia,Strava,mobile-web,2020-09-18,32
+de.wikipedia,Strava,mobile-web,2020-09-19,35
+de.wikipedia,Strava,mobile-web,2020-09-20,47
+de.wikipedia,Strava,mobile-web,2020-09-21,36
+de.wikipedia,Strava,mobile-web,2020-09-22,33
+de.wikipedia,Strava,mobile-web,2020-09-23,22
+de.wikipedia,Strava,mobile-web,2020-09-24,39
+de.wikipedia,Strava,mobile-web,2020-09-25,19
+de.wikipedia,Strava,mobile-web,2020-09-26,32
+de.wikipedia,Strava,mobile-web,2020-09-27,31
+de.wikipedia,Strava,mobile-web,2020-09-28,25
+de.wikipedia,Strava,mobile-web,2020-09-29,26
+de.wikipedia,Strava,mobile-web,2020-09-30,16
+en.wikipedia,Garmin,desktop,2020-09-01,394
+en.wikipedia,Garmin,desktop,2020-09-02,399
+en.wikipedia,Garmin,desktop,2020-09-03,401
+en.wikipedia,Garmin,desktop,2020-09-04,379
+en.wikipedia,Garmin,desktop,2020-09-05,239
+en.wikipedia,Garmin,desktop,2020-09-06,239
+en.wikipedia,Garmin,desktop,2020-09-07,354
+en.wikipedia,Garmin,desktop,2020-09-08,420
+en.wikipedia,Garmin,desktop,2020-09-09,397
+en.wikipedia,Garmin,desktop,2020-09-10,427
+en.wikipedia,Garmin,desktop,2020-09-11,368
+en.wikipedia,Garmin,desktop,2020-09-12,254
+en.wikipedia,Garmin,desktop,2020-09-13,260
+en.wikipedia,Garmin,desktop,2020-09-14,421
+en.wikipedia,Garmin,desktop,2020-09-15,404
+en.wikipedia,Garmin,desktop,2020-09-16,479
+en.wikipedia,Garmin,desktop,2020-09-17,408
+en.wikipedia,Garmin,desktop,2020-09-18,349
+en.wikipedia,Garmin,desktop,2020-09-19,224
+en.wikipedia,Garmin,desktop,2020-09-20,253
+en.wikipedia,Garmin,desktop,2020-09-21,401
+en.wikipedia,Garmin,desktop,2020-09-22,392
+en.wikipedia,Garmin,desktop,2020-09-23,440
+en.wikipedia,Garmin,desktop,2020-09-24,397
+en.wikipedia,Garmin,desktop,2020-09-25,320
+en.wikipedia,Garmin,desktop,2020-09-26,238
+en.wikipedia,Garmin,desktop,2020-09-27,283
+en.wikipedia,Garmin,desktop,2020-09-28,423
+en.wikipedia,Garmin,desktop,2020-09-29,371
+en.wikipedia,Garmin,desktop,2020-09-30,386
+en.wikipedia,Garmin,mobile-app,2020-09-01,15
+en.wikipedia,Garmin,mobile-app,2020-09-02,14
+en.wikipedia,Garmin,mobile-app,2020-09-03,13
+en.wikipedia,Garmin,mobile-app,2020-09-04,12
+en.wikipedia,Garmin,mobile-app,2020-09-05,22
+en.wikipedia,Garmin,mobile-app,2020-09-06,19
+en.wikipedia,Garmin,mobile-app,2020-09-07,13
+en.wikipedia,Garmin,mobile-app,2020-09-08,23
+en.wikipedia,Garmin,mobile-app,2020-09-09,7
+en.wikipedia,Garmin,mobile-app,2020-09-10,11
+en.wikipedia,Garmin,mobile-app,2020-09-11,14
+en.wikipedia,Garmin,mobile-app,2020-09-12,29
+en.wikipedia,Garmin,mobile-app,2020-09-13,17
+en.wikipedia,Garmin,mobile-app,2020-09-14,17
+en.wikipedia,Garmin,mobile-app,2020-09-15,18
+en.wikipedia,Garmin,mobile-app,2020-09-16,22
+en.wikipedia,Garmin,mobile-app,2020-09-17,16
+en.wikipedia,Garmin,mobile-app,2020-09-18,24
+en.wikipedia,Garmin,mobile-app,2020-09-19,16
+en.wikipedia,Garmin,mobile-app,2020-09-20,10
+en.wikipedia,Garmin,mobile-app,2020-09-21,17
+en.wikipedia,Garmin,mobile-app,2020-09-22,8
+en.wikipedia,Garmin,mobile-app,2020-09-23,23
+en.wikipedia,Garmin,mobile-app,2020-09-24,9
+en.wikipedia,Garmin,mobile-app,2020-09-25,18
+en.wikipedia,Garmin,mobile-app,2020-09-26,22
+en.wikipedia,Garmin,mobile-app,2020-09-27,20
+en.wikipedia,Garmin,mobile-app,2020-09-28,17
+en.wikipedia,Garmin,mobile-app,2020-09-29,12
+en.wikipedia,Garmin,mobile-app,2020-09-30,27
+en.wikipedia,Garmin,mobile-web,2020-09-01,246
+en.wikipedia,Garmin,mobile-web,2020-09-02,282
+en.wikipedia,Garmin,mobile-web,2020-09-03,298
+en.wikipedia,Garmin,mobile-web,2020-09-04,293
+en.wikipedia,Garmin,mobile-web,2020-09-05,305
+en.wikipedia,Garmin,mobile-web,2020-09-06,361
+en.wikipedia,Garmin,mobile-web,2020-09-07,272
+en.wikipedia,Garmin,mobile-web,2020-09-08,264
+en.wikipedia,Garmin,mobile-web,2020-09-09,269
+en.wikipedia,Garmin,mobile-web,2020-09-10,305
+en.wikipedia,Garmin,mobile-web,2020-09-11,275
+en.wikipedia,Garmin,mobile-web,2020-09-12,277
+en.wikipedia,Garmin,mobile-web,2020-09-13,330
+en.wikipedia,Garmin,mobile-web,2020-09-14,283
+en.wikipedia,Garmin,mobile-web,2020-09-15,281
+en.wikipedia,Garmin,mobile-web,2020-09-16,268
+en.wikipedia,Garmin,mobile-web,2020-09-17,287
+en.wikipedia,Garmin,mobile-web,2020-09-18,300
+en.wikipedia,Garmin,mobile-web,2020-09-19,345
+en.wikipedia,Garmin,mobile-web,2020-09-20,324
+en.wikipedia,Garmin,mobile-web,2020-09-21,291
+en.wikipedia,Garmin,mobile-web,2020-09-22,270
+en.wikipedia,Garmin,mobile-web,2020-09-23,276
+en.wikipedia,Garmin,mobile-web,2020-09-24,270
+en.wikipedia,Garmin,mobile-web,2020-09-25,266
+en.wikipedia,Garmin,mobile-web,2020-09-26,297
+en.wikipedia,Garmin,mobile-web,2020-09-27,291
+en.wikipedia,Garmin,mobile-web,2020-09-28,267
+en.wikipedia,Garmin,mobile-web,2020-09-29,247
+en.wikipedia,Garmin,mobile-web,2020-09-30,234
+en.wikipedia,Peloton Interactive,desktop,2020-09-01,1
+en.wikipedia,Peloton Interactive,desktop,2020-09-02,2
+en.wikipedia,Peloton Interactive,desktop,2020-09-03,1
+en.wikipedia,Peloton Interactive,desktop,2020-09-04,5
+en.wikipedia,Peloton Interactive,desktop,2020-09-06,1
+en.wikipedia,Peloton Interactive,desktop,2020-09-07,0
+en.wikipedia,Peloton Interactive,desktop,2020-09-08,4
+en.wikipedia,Peloton Interactive,desktop,2020-09-09,2
+en.wikipedia,Peloton Interactive,desktop,2020-09-11,4
+en.wikipedia,Peloton Interactive,desktop,2020-09-12,1
+en.wikipedia,Peloton Interactive,desktop,2020-09-14,1
+en.wikipedia,Peloton Interactive,desktop,2020-09-15,1
+en.wikipedia,Peloton Interactive,desktop,2020-09-16,6
+en.wikipedia,Peloton Interactive,desktop,2020-09-18,1
+en.wikipedia,Peloton Interactive,desktop,2020-09-19,1
+en.wikipedia,Peloton Interactive,desktop,2020-09-21,0
+en.wikipedia,Peloton Interactive,desktop,2020-09-22,0
+en.wikipedia,Peloton Interactive,desktop,2020-09-23,2
+en.wikipedia,Peloton Interactive,desktop,2020-09-27,3
+en.wikipedia,Peloton Interactive,desktop,2020-09-29,0
+en.wikipedia,Peloton Interactive,desktop,2020-09-30,1
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-01,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-02,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-03,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-04,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-06,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-07,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-08,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-09,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-11,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-12,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-14,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-15,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-16,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-18,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-19,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-21,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-22,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-23,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-27,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-29,0
+en.wikipedia,Peloton Interactive,mobile-app,2020-09-30,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-01,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-02,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-03,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-04,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-06,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-07,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-08,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-09,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-11,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-12,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-14,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-15,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-16,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-18,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-19,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-21,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-22,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-23,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-27,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-29,0
+en.wikipedia,Peloton Interactive,mobile-web,2020-09-30,0
+en.wikipedia,Running,desktop,2020-09-01,245
+en.wikipedia,Running,desktop,2020-09-02,273
+en.wikipedia,Running,desktop,2020-09-03,289
+en.wikipedia,Running,desktop,2020-09-04,273
+en.wikipedia,Running,desktop,2020-09-05,318
+en.wikipedia,Running,desktop,2020-09-06,234
+en.wikipedia,Running,desktop,2020-09-07,283
+en.wikipedia,Running,desktop,2020-09-08,303
+en.wikipedia,Running,desktop,2020-09-09,294
+en.wikipedia,Running,desktop,2020-09-10,344
+en.wikipedia,Running,desktop,2020-09-11,285
+en.wikipedia,Running,desktop,2020-09-12,215
+en.wikipedia,Running,desktop,2020-09-13,231
+en.wikipedia,Running,desktop,2020-09-14,332
+en.wikipedia,Running,desktop,2020-09-15,343
+en.wikipedia,Running,desktop,2020-09-16,407
+en.wikipedia,Running,desktop,2020-09-17,412
+en.wikipedia,Running,desktop,2020-09-18,336
+en.wikipedia,Running,desktop,2020-09-19,194
+en.wikipedia,Running,desktop,2020-09-20,214
+en.wikipedia,Running,desktop,2020-09-21,320
+en.wikipedia,Running,desktop,2020-09-22,333
+en.wikipedia,Running,desktop,2020-09-23,357
+en.wikipedia,Running,desktop,2020-09-24,336
+en.wikipedia,Running,desktop,2020-09-25,297
+en.wikipedia,Running,desktop,2020-09-26,239
+en.wikipedia,Running,desktop,2020-09-27,217
+en.wikipedia,Running,desktop,2020-09-28,301
+en.wikipedia,Running,desktop,2020-09-29,312
+en.wikipedia,Running,desktop,2020-09-30,342
+en.wikipedia,Running,mobile-app,2020-09-01,11
+en.wikipedia,Running,mobile-app,2020-09-02,13
+en.wikipedia,Running,mobile-app,2020-09-03,13
+en.wikipedia,Running,mobile-app,2020-09-04,14
+en.wikipedia,Running,mobile-app,2020-09-05,25
+en.wikipedia,Running,mobile-app,2020-09-06,17
+en.wikipedia,Running,mobile-app,2020-09-07,16
+en.wikipedia,Running,mobile-app,2020-09-08,10
+en.wikipedia,Running,mobile-app,2020-09-09,18
+en.wikipedia,Running,mobile-app,2020-09-10,24
+en.wikipedia,Running,mobile-app,2020-09-11,11
+en.wikipedia,Running,mobile-app,2020-09-12,16
+en.wikipedia,Running,mobile-app,2020-09-13,9
+en.wikipedia,Running,mobile-app,2020-09-14,14
+en.wikipedia,Running,mobile-app,2020-09-15,13
+en.wikipedia,Running,mobile-app,2020-09-16,18
+en.wikipedia,Running,mobile-app,2020-09-17,18
+en.wikipedia,Running,mobile-app,2020-09-18,18
+en.wikipedia,Running,mobile-app,2020-09-19,17
+en.wikipedia,Running,mobile-app,2020-09-20,24
+en.wikipedia,Running,mobile-app,2020-09-21,24
+en.wikipedia,Running,mobile-app,2020-09-22,6
+en.wikipedia,Running,mobile-app,2020-09-23,15
+en.wikipedia,Running,mobile-app,2020-09-24,12
+en.wikipedia,Running,mobile-app,2020-09-25,18
+en.wikipedia,Running,mobile-app,2020-09-26,14
+en.wikipedia,Running,mobile-app,2020-09-27,14
+en.wikipedia,Running,mobile-app,2020-09-28,15
+en.wikipedia,Running,mobile-app,2020-09-29,12
+en.wikipedia,Running,mobile-app,2020-09-30,10
+en.wikipedia,Running,mobile-web,2020-09-01,367
+en.wikipedia,Running,mobile-web,2020-09-02,425
+en.wikipedia,Running,mobile-web,2020-09-03,492
+en.wikipedia,Running,mobile-web,2020-09-04,490
+en.wikipedia,Running,mobile-web,2020-09-05,799
+en.wikipedia,Running,mobile-web,2020-09-06,572
+en.wikipedia,Running,mobile-web,2020-09-07,472
+en.wikipedia,Running,mobile-web,2020-09-08,497
+en.wikipedia,Running,mobile-web,2020-09-09,451
+en.wikipedia,Running,mobile-web,2020-09-10,519
+en.wikipedia,Running,mobile-web,2020-09-11,456
+en.wikipedia,Running,mobile-web,2020-09-12,444
+en.wikipedia,Running,mobile-web,2020-09-13,449
+en.wikipedia,Running,mobile-web,2020-09-14,1036
+en.wikipedia,Running,mobile-web,2020-09-15,540
+en.wikipedia,Running,mobile-web,2020-09-16,457
+en.wikipedia,Running,mobile-web,2020-09-17,480
+en.wikipedia,Running,mobile-web,2020-09-18,593
+en.wikipedia,Running,mobile-web,2020-09-19,475
+en.wikipedia,Running,mobile-web,2020-09-20,537
+en.wikipedia,Running,mobile-web,2020-09-21,563
+en.wikipedia,Running,mobile-web,2020-09-22,518
+en.wikipedia,Running,mobile-web,2020-09-23,514
+en.wikipedia,Running,mobile-web,2020-09-24,528
+en.wikipedia,Running,mobile-web,2020-09-25,465
+en.wikipedia,Running,mobile-web,2020-09-26,383
+en.wikipedia,Running,mobile-web,2020-09-27,395
+en.wikipedia,Running,mobile-web,2020-09-28,469
+en.wikipedia,Running,mobile-web,2020-09-29,454
+en.wikipedia,Running,mobile-web,2020-09-30,402
+en.wikipedia,Strava,desktop,2020-09-01,302
+en.wikipedia,Strava,desktop,2020-09-02,310
+en.wikipedia,Strava,desktop,2020-09-03,265
+en.wikipedia,Strava,desktop,2020-09-04,257
+en.wikipedia,Strava,desktop,2020-09-05,140
+en.wikipedia,Strava,desktop,2020-09-06,196
+en.wikipedia,Strava,desktop,2020-09-07,209
+en.wikipedia,Strava,desktop,2020-09-08,283
+en.wikipedia,Strava,desktop,2020-09-09,282
+en.wikipedia,Strava,desktop,2020-09-10,276
+en.wikipedia,Strava,desktop,2020-09-11,236
+en.wikipedia,Strava,desktop,2020-09-12,188
+en.wikipedia,Strava,desktop,2020-09-13,187
+en.wikipedia,Strava,desktop,2020-09-14,305
+en.wikipedia,Strava,desktop,2020-09-15,265
+en.wikipedia,Strava,desktop,2020-09-16,247
+en.wikipedia,Strava,desktop,2020-09-17,259
+en.wikipedia,Strava,desktop,2020-09-18,248
+en.wikipedia,Strava,desktop,2020-09-19,157
+en.wikipedia,Strava,desktop,2020-09-20,233
+en.wikipedia,Strava,desktop,2020-09-21,315
+en.wikipedia,Strava,desktop,2020-09-22,295
+en.wikipedia,Strava,desktop,2020-09-23,281
+en.wikipedia,Strava,desktop,2020-09-24,234
+en.wikipedia,Strava,desktop,2020-09-25,236
+en.wikipedia,Strava,desktop,2020-09-26,187
+en.wikipedia,Strava,desktop,2020-09-27,202
+en.wikipedia,Strava,desktop,2020-09-28,310
+en.wikipedia,Strava,desktop,2020-09-29,276
+en.wikipedia,Strava,desktop,2020-09-30,271
+en.wikipedia,Strava,mobile-app,2020-09-01,9
+en.wikipedia,Strava,mobile-app,2020-09-02,16
+en.wikipedia,Strava,mobile-app,2020-09-03,14
+en.wikipedia,Strava,mobile-app,2020-09-04,10
+en.wikipedia,Strava,mobile-app,2020-09-05,11
+en.wikipedia,Strava,mobile-app,2020-09-06,12
+en.wikipedia,Strava,mobile-app,2020-09-07,7
+en.wikipedia,Strava,mobile-app,2020-09-08,7
+en.wikipedia,Strava,mobile-app,2020-09-09,8
+en.wikipedia,Strava,mobile-app,2020-09-10,4
+en.wikipedia,Strava,mobile-app,2020-09-11,5
+en.wikipedia,Strava,mobile-app,2020-09-12,11
+en.wikipedia,Strava,mobile-app,2020-09-13,12
+en.wikipedia,Strava,mobile-app,2020-09-14,16
+en.wikipedia,Strava,mobile-app,2020-09-15,3
+en.wikipedia,Strava,mobile-app,2020-09-16,6
+en.wikipedia,Strava,mobile-app,2020-09-17,10
+en.wikipedia,Strava,mobile-app,2020-09-18,4
+en.wikipedia,Strava,mobile-app,2020-09-19,6
+en.wikipedia,Strava,mobile-app,2020-09-20,18
+en.wikipedia,Strava,mobile-app,2020-09-21,12
+en.wikipedia,Strava,mobile-app,2020-09-22,11
+en.wikipedia,Strava,mobile-app,2020-09-23,5
+en.wikipedia,Strava,mobile-app,2020-09-24,8
+en.wikipedia,Strava,mobile-app,2020-09-25,5
+en.wikipedia,Strava,mobile-app,2020-09-26,12
+en.wikipedia,Strava,mobile-app,2020-09-27,8
+en.wikipedia,Strava,mobile-app,2020-09-28,12
+en.wikipedia,Strava,mobile-app,2020-09-29,5
+en.wikipedia,Strava,mobile-app,2020-09-30,5
+en.wikipedia,Strava,mobile-web,2020-09-01,153
+en.wikipedia,Strava,mobile-web,2020-09-02,194
+en.wikipedia,Strava,mobile-web,2020-09-03,168
+en.wikipedia,Strava,mobile-web,2020-09-04,178
+en.wikipedia,Strava,mobile-web,2020-09-05,213
+en.wikipedia,Strava,mobile-web,2020-09-06,251
+en.wikipedia,Strava,mobile-web,2020-09-07,219
+en.wikipedia,Strava,mobile-web,2020-09-08,213
+en.wikipedia,Strava,mobile-web,2020-09-09,180
+en.wikipedia,Strava,mobile-web,2020-09-10,155
+en.wikipedia,Strava,mobile-web,2020-09-11,166
+en.wikipedia,Strava,mobile-web,2020-09-12,209
+en.wikipedia,Strava,mobile-web,2020-09-13,260
+en.wikipedia,Strava,mobile-web,2020-09-14,183
+en.wikipedia,Strava,mobile-web,2020-09-15,169
+en.wikipedia,Strava,mobile-web,2020-09-16,194
+en.wikipedia,Strava,mobile-web,2020-09-17,182
+en.wikipedia,Strava,mobile-web,2020-09-18,169
+en.wikipedia,Strava,mobile-web,2020-09-19,178
+en.wikipedia,Strava,mobile-web,2020-09-20,265
+en.wikipedia,Strava,mobile-web,2020-09-21,205
+en.wikipedia,Strava,mobile-web,2020-09-22,142
+en.wikipedia,Strava,mobile-web,2020-09-23,189
+en.wikipedia,Strava,mobile-web,2020-09-24,203
+en.wikipedia,Strava,mobile-web,2020-09-25,136
+en.wikipedia,Strava,mobile-web,2020-09-26,199
+en.wikipedia,Strava,mobile-web,2020-09-27,250
+en.wikipedia,Strava,mobile-web,2020-09-28,161
+en.wikipedia,Strava,mobile-web,2020-09-29,164
+en.wikipedia,Strava,mobile-web,2020-09-30,146

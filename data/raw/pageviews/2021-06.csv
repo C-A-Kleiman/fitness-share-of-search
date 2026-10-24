@@ -1,0 +1,448 @@
+project,article,access,view_date,views
+de.wikipedia,Strava,desktop,2021-06-01,44
+de.wikipedia,Strava,desktop,2021-06-02,36
+de.wikipedia,Strava,desktop,2021-06-03,34
+de.wikipedia,Strava,desktop,2021-06-04,32
+de.wikipedia,Strava,desktop,2021-06-05,17
+de.wikipedia,Strava,desktop,2021-06-06,35
+de.wikipedia,Strava,desktop,2021-06-07,33
+de.wikipedia,Strava,desktop,2021-06-08,25
+de.wikipedia,Strava,desktop,2021-06-09,28
+de.wikipedia,Strava,desktop,2021-06-10,31
+de.wikipedia,Strava,desktop,2021-06-11,22
+de.wikipedia,Strava,desktop,2021-06-12,14
+de.wikipedia,Strava,desktop,2021-06-13,34
+de.wikipedia,Strava,desktop,2021-06-14,30
+de.wikipedia,Strava,desktop,2021-06-15,39
+de.wikipedia,Strava,desktop,2021-06-16,26
+de.wikipedia,Strava,desktop,2021-06-17,26
+de.wikipedia,Strava,desktop,2021-06-18,24
+de.wikipedia,Strava,desktop,2021-06-19,19
+de.wikipedia,Strava,desktop,2021-06-20,31
+de.wikipedia,Strava,desktop,2021-06-21,40
+de.wikipedia,Strava,desktop,2021-06-22,29
+de.wikipedia,Strava,desktop,2021-06-23,32
+de.wikipedia,Strava,desktop,2021-06-24,24
+de.wikipedia,Strava,desktop,2021-06-25,27
+de.wikipedia,Strava,desktop,2021-06-26,13
+de.wikipedia,Strava,desktop,2021-06-27,22
+de.wikipedia,Strava,desktop,2021-06-28,43
+de.wikipedia,Strava,desktop,2021-06-29,26
+de.wikipedia,Strava,desktop,2021-06-30,25
+de.wikipedia,Strava,mobile-app,2021-06-01,6
+de.wikipedia,Strava,mobile-app,2021-06-02,4
+de.wikipedia,Strava,mobile-app,2021-06-03,5
+de.wikipedia,Strava,mobile-app,2021-06-04,4
+de.wikipedia,Strava,mobile-app,2021-06-05,7
+de.wikipedia,Strava,mobile-app,2021-06-06,3
+de.wikipedia,Strava,mobile-app,2021-06-07,2
+de.wikipedia,Strava,mobile-app,2021-06-08,3
+de.wikipedia,Strava,mobile-app,2021-06-09,1
+de.wikipedia,Strava,mobile-app,2021-06-10,1
+de.wikipedia,Strava,mobile-app,2021-06-11,0
+de.wikipedia,Strava,mobile-app,2021-06-12,6
+de.wikipedia,Strava,mobile-app,2021-06-13,1
+de.wikipedia,Strava,mobile-app,2021-06-14,4
+de.wikipedia,Strava,mobile-app,2021-06-15,4
+de.wikipedia,Strava,mobile-app,2021-06-16,1
+de.wikipedia,Strava,mobile-app,2021-06-17,1
+de.wikipedia,Strava,mobile-app,2021-06-18,1
+de.wikipedia,Strava,mobile-app,2021-06-19,3
+de.wikipedia,Strava,mobile-app,2021-06-20,2
+de.wikipedia,Strava,mobile-app,2021-06-21,1
+de.wikipedia,Strava,mobile-app,2021-06-22,4
+de.wikipedia,Strava,mobile-app,2021-06-23,4
+de.wikipedia,Strava,mobile-app,2021-06-24,2
+de.wikipedia,Strava,mobile-app,2021-06-25,3
+de.wikipedia,Strava,mobile-app,2021-06-26,0
+de.wikipedia,Strava,mobile-app,2021-06-27,3
+de.wikipedia,Strava,mobile-app,2021-06-28,4
+de.wikipedia,Strava,mobile-app,2021-06-29,2
+de.wikipedia,Strava,mobile-app,2021-06-30,2
+de.wikipedia,Strava,mobile-web,2021-06-01,18
+de.wikipedia,Strava,mobile-web,2021-06-02,25
+de.wikipedia,Strava,mobile-web,2021-06-03,36
+de.wikipedia,Strava,mobile-web,2021-06-04,24
+de.wikipedia,Strava,mobile-web,2021-06-05,35
+de.wikipedia,Strava,mobile-web,2021-06-06,43
+de.wikipedia,Strava,mobile-web,2021-06-07,24
+de.wikipedia,Strava,mobile-web,2021-06-08,24
+de.wikipedia,Strava,mobile-web,2021-06-09,22
+de.wikipedia,Strava,mobile-web,2021-06-10,12
+de.wikipedia,Strava,mobile-web,2021-06-11,16
+de.wikipedia,Strava,mobile-web,2021-06-12,25
+de.wikipedia,Strava,mobile-web,2021-06-13,36
+de.wikipedia,Strava,mobile-web,2021-06-14,32
+de.wikipedia,Strava,mobile-web,2021-06-15,15
+de.wikipedia,Strava,mobile-web,2021-06-16,23
+de.wikipedia,Strava,mobile-web,2021-06-17,14
+de.wikipedia,Strava,mobile-web,2021-06-18,27
+de.wikipedia,Strava,mobile-web,2021-06-19,17
+de.wikipedia,Strava,mobile-web,2021-06-20,34
+de.wikipedia,Strava,mobile-web,2021-06-21,23
+de.wikipedia,Strava,mobile-web,2021-06-22,18
+de.wikipedia,Strava,mobile-web,2021-06-23,21
+de.wikipedia,Strava,mobile-web,2021-06-24,20
+de.wikipedia,Strava,mobile-web,2021-06-25,21
+de.wikipedia,Strava,mobile-web,2021-06-26,24
+de.wikipedia,Strava,mobile-web,2021-06-27,33
+de.wikipedia,Strava,mobile-web,2021-06-28,21
+de.wikipedia,Strava,mobile-web,2021-06-29,16
+de.wikipedia,Strava,mobile-web,2021-06-30,27
+en.wikipedia,Garmin,desktop,2021-06-01,295
+en.wikipedia,Garmin,desktop,2021-06-02,310
+en.wikipedia,Garmin,desktop,2021-06-03,302
+en.wikipedia,Garmin,desktop,2021-06-04,301
+en.wikipedia,Garmin,desktop,2021-06-05,204
+en.wikipedia,Garmin,desktop,2021-06-06,220
+en.wikipedia,Garmin,desktop,2021-06-07,320
+en.wikipedia,Garmin,desktop,2021-06-08,276
+en.wikipedia,Garmin,desktop,2021-06-09,303
+en.wikipedia,Garmin,desktop,2021-06-10,294
+en.wikipedia,Garmin,desktop,2021-06-11,257
+en.wikipedia,Garmin,desktop,2021-06-12,186
+en.wikipedia,Garmin,desktop,2021-06-13,196
+en.wikipedia,Garmin,desktop,2021-06-14,328
+en.wikipedia,Garmin,desktop,2021-06-15,279
+en.wikipedia,Garmin,desktop,2021-06-16,294
+en.wikipedia,Garmin,desktop,2021-06-17,300
+en.wikipedia,Garmin,desktop,2021-06-18,261
+en.wikipedia,Garmin,desktop,2021-06-19,207
+en.wikipedia,Garmin,desktop,2021-06-20,207
+en.wikipedia,Garmin,desktop,2021-06-21,339
+en.wikipedia,Garmin,desktop,2021-06-22,317
+en.wikipedia,Garmin,desktop,2021-06-23,284
+en.wikipedia,Garmin,desktop,2021-06-24,291
+en.wikipedia,Garmin,desktop,2021-06-25,303
+en.wikipedia,Garmin,desktop,2021-06-26,197
+en.wikipedia,Garmin,desktop,2021-06-27,206
+en.wikipedia,Garmin,desktop,2021-06-28,309
+en.wikipedia,Garmin,desktop,2021-06-29,307
+en.wikipedia,Garmin,desktop,2021-06-30,393
+en.wikipedia,Garmin,mobile-app,2021-06-01,22
+en.wikipedia,Garmin,mobile-app,2021-06-02,19
+en.wikipedia,Garmin,mobile-app,2021-06-03,10
+en.wikipedia,Garmin,mobile-app,2021-06-04,11
+en.wikipedia,Garmin,mobile-app,2021-06-05,11
+en.wikipedia,Garmin,mobile-app,2021-06-06,19
+en.wikipedia,Garmin,mobile-app,2021-06-07,12
+en.wikipedia,Garmin,mobile-app,2021-06-08,7
+en.wikipedia,Garmin,mobile-app,2021-06-09,14
+en.wikipedia,Garmin,mobile-app,2021-06-10,11
+en.wikipedia,Garmin,mobile-app,2021-06-11,15
+en.wikipedia,Garmin,mobile-app,2021-06-12,8
+en.wikipedia,Garmin,mobile-app,2021-06-13,17
+en.wikipedia,Garmin,mobile-app,2021-06-14,7
+en.wikipedia,Garmin,mobile-app,2021-06-15,7
+en.wikipedia,Garmin,mobile-app,2021-06-16,8
+en.wikipedia,Garmin,mobile-app,2021-06-17,13
+en.wikipedia,Garmin,mobile-app,2021-06-18,11
+en.wikipedia,Garmin,mobile-app,2021-06-19,18
+en.wikipedia,Garmin,mobile-app,2021-06-20,20
+en.wikipedia,Garmin,mobile-app,2021-06-21,12
+en.wikipedia,Garmin,mobile-app,2021-06-22,12
+en.wikipedia,Garmin,mobile-app,2021-06-23,14
+en.wikipedia,Garmin,mobile-app,2021-06-24,11
+en.wikipedia,Garmin,mobile-app,2021-06-25,12
+en.wikipedia,Garmin,mobile-app,2021-06-26,10
+en.wikipedia,Garmin,mobile-app,2021-06-27,15
+en.wikipedia,Garmin,mobile-app,2021-06-28,16
+en.wikipedia,Garmin,mobile-app,2021-06-29,19
+en.wikipedia,Garmin,mobile-app,2021-06-30,20
+en.wikipedia,Garmin,mobile-web,2021-06-01,259
+en.wikipedia,Garmin,mobile-web,2021-06-02,273
+en.wikipedia,Garmin,mobile-web,2021-06-03,292
+en.wikipedia,Garmin,mobile-web,2021-06-04,279
+en.wikipedia,Garmin,mobile-web,2021-06-05,296
+en.wikipedia,Garmin,mobile-web,2021-06-06,291
+en.wikipedia,Garmin,mobile-web,2021-06-07,240
+en.wikipedia,Garmin,mobile-web,2021-06-08,262
+en.wikipedia,Garmin,mobile-web,2021-06-09,245
+en.wikipedia,Garmin,mobile-web,2021-06-10,259
+en.wikipedia,Garmin,mobile-web,2021-06-11,252
+en.wikipedia,Garmin,mobile-web,2021-06-12,291
+en.wikipedia,Garmin,mobile-web,2021-06-13,299
+en.wikipedia,Garmin,mobile-web,2021-06-14,254
+en.wikipedia,Garmin,mobile-web,2021-06-15,280
+en.wikipedia,Garmin,mobile-web,2021-06-16,238
+en.wikipedia,Garmin,mobile-web,2021-06-17,239
+en.wikipedia,Garmin,mobile-web,2021-06-18,263
+en.wikipedia,Garmin,mobile-web,2021-06-19,282
+en.wikipedia,Garmin,mobile-web,2021-06-20,274
+en.wikipedia,Garmin,mobile-web,2021-06-21,279
+en.wikipedia,Garmin,mobile-web,2021-06-22,278
+en.wikipedia,Garmin,mobile-web,2021-06-23,254
+en.wikipedia,Garmin,mobile-web,2021-06-24,245
+en.wikipedia,Garmin,mobile-web,2021-06-25,287
+en.wikipedia,Garmin,mobile-web,2021-06-26,293
+en.wikipedia,Garmin,mobile-web,2021-06-27,286
+en.wikipedia,Garmin,mobile-web,2021-06-28,260
+en.wikipedia,Garmin,mobile-web,2021-06-29,240
+en.wikipedia,Garmin,mobile-web,2021-06-30,311
+en.wikipedia,Peloton Interactive,desktop,2021-06-01,4
+en.wikipedia,Peloton Interactive,desktop,2021-06-02,3
+en.wikipedia,Peloton Interactive,desktop,2021-06-03,0
+en.wikipedia,Peloton Interactive,desktop,2021-06-04,4
+en.wikipedia,Peloton Interactive,desktop,2021-06-05,0
+en.wikipedia,Peloton Interactive,desktop,2021-06-06,2
+en.wikipedia,Peloton Interactive,desktop,2021-06-07,2
+en.wikipedia,Peloton Interactive,desktop,2021-06-08,3
+en.wikipedia,Peloton Interactive,desktop,2021-06-09,3
+en.wikipedia,Peloton Interactive,desktop,2021-06-10,1
+en.wikipedia,Peloton Interactive,desktop,2021-06-11,1
+en.wikipedia,Peloton Interactive,desktop,2021-06-12,2
+en.wikipedia,Peloton Interactive,desktop,2021-06-13,1
+en.wikipedia,Peloton Interactive,desktop,2021-06-14,0
+en.wikipedia,Peloton Interactive,desktop,2021-06-15,1
+en.wikipedia,Peloton Interactive,desktop,2021-06-16,3
+en.wikipedia,Peloton Interactive,desktop,2021-06-17,1
+en.wikipedia,Peloton Interactive,desktop,2021-06-18,0
+en.wikipedia,Peloton Interactive,desktop,2021-06-19,4
+en.wikipedia,Peloton Interactive,desktop,2021-06-20,0
+en.wikipedia,Peloton Interactive,desktop,2021-06-21,2
+en.wikipedia,Peloton Interactive,desktop,2021-06-22,2
+en.wikipedia,Peloton Interactive,desktop,2021-06-23,0
+en.wikipedia,Peloton Interactive,desktop,2021-06-24,1
+en.wikipedia,Peloton Interactive,desktop,2021-06-25,0
+en.wikipedia,Peloton Interactive,desktop,2021-06-27,2
+en.wikipedia,Peloton Interactive,desktop,2021-06-28,0
+en.wikipedia,Peloton Interactive,desktop,2021-06-29,2
+en.wikipedia,Peloton Interactive,desktop,2021-06-30,1
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-01,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-02,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-03,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-04,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-05,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-06,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-07,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-08,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-09,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-10,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-11,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-12,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-13,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-14,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-15,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-16,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-17,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-18,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-19,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-20,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-21,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-22,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-23,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-24,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-25,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-27,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-28,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-29,0
+en.wikipedia,Peloton Interactive,mobile-app,2021-06-30,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-01,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-02,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-03,1
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-04,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-05,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-06,1
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-07,1
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-08,2
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-09,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-10,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-11,1
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-12,1
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-13,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-14,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-15,1
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-16,1
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-17,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-18,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-19,2
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-20,1
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-21,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-22,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-23,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-24,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-25,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-27,1
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-28,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-29,0
+en.wikipedia,Peloton Interactive,mobile-web,2021-06-30,0
+en.wikipedia,Running,desktop,2021-06-01,471
+en.wikipedia,Running,desktop,2021-06-02,512
+en.wikipedia,Running,desktop,2021-06-03,501
+en.wikipedia,Running,desktop,2021-06-04,430
+en.wikipedia,Running,desktop,2021-06-05,327
+en.wikipedia,Running,desktop,2021-06-06,433
+en.wikipedia,Running,desktop,2021-06-07,462
+en.wikipedia,Running,desktop,2021-06-08,491
+en.wikipedia,Running,desktop,2021-06-09,490
+en.wikipedia,Running,desktop,2021-06-10,440
+en.wikipedia,Running,desktop,2021-06-11,432
+en.wikipedia,Running,desktop,2021-06-12,423
+en.wikipedia,Running,desktop,2021-06-13,413
+en.wikipedia,Running,desktop,2021-06-14,554
+en.wikipedia,Running,desktop,2021-06-15,507
+en.wikipedia,Running,desktop,2021-06-16,614
+en.wikipedia,Running,desktop,2021-06-17,536
+en.wikipedia,Running,desktop,2021-06-18,441
+en.wikipedia,Running,desktop,2021-06-19,446
+en.wikipedia,Running,desktop,2021-06-20,450
+en.wikipedia,Running,desktop,2021-06-21,581
+en.wikipedia,Running,desktop,2021-06-22,538
+en.wikipedia,Running,desktop,2021-06-23,565
+en.wikipedia,Running,desktop,2021-06-24,525
+en.wikipedia,Running,desktop,2021-06-25,454
+en.wikipedia,Running,desktop,2021-06-26,418
+en.wikipedia,Running,desktop,2021-06-27,419
+en.wikipedia,Running,desktop,2021-06-28,507
+en.wikipedia,Running,desktop,2021-06-29,582
+en.wikipedia,Running,desktop,2021-06-30,467
+en.wikipedia,Running,mobile-app,2021-06-01,24
+en.wikipedia,Running,mobile-app,2021-06-02,11
+en.wikipedia,Running,mobile-app,2021-06-03,10
+en.wikipedia,Running,mobile-app,2021-06-04,9
+en.wikipedia,Running,mobile-app,2021-06-05,21
+en.wikipedia,Running,mobile-app,2021-06-06,11
+en.wikipedia,Running,mobile-app,2021-06-07,21
+en.wikipedia,Running,mobile-app,2021-06-08,15
+en.wikipedia,Running,mobile-app,2021-06-09,12
+en.wikipedia,Running,mobile-app,2021-06-10,7
+en.wikipedia,Running,mobile-app,2021-06-11,7
+en.wikipedia,Running,mobile-app,2021-06-12,3
+en.wikipedia,Running,mobile-app,2021-06-13,12
+en.wikipedia,Running,mobile-app,2021-06-14,7
+en.wikipedia,Running,mobile-app,2021-06-15,15
+en.wikipedia,Running,mobile-app,2021-06-16,12
+en.wikipedia,Running,mobile-app,2021-06-17,23
+en.wikipedia,Running,mobile-app,2021-06-18,8
+en.wikipedia,Running,mobile-app,2021-06-19,14
+en.wikipedia,Running,mobile-app,2021-06-20,12
+en.wikipedia,Running,mobile-app,2021-06-21,17
+en.wikipedia,Running,mobile-app,2021-06-22,10
+en.wikipedia,Running,mobile-app,2021-06-23,15
+en.wikipedia,Running,mobile-app,2021-06-24,10
+en.wikipedia,Running,mobile-app,2021-06-25,12
+en.wikipedia,Running,mobile-app,2021-06-26,9
+en.wikipedia,Running,mobile-app,2021-06-27,8
+en.wikipedia,Running,mobile-app,2021-06-28,9
+en.wikipedia,Running,mobile-app,2021-06-29,14
+en.wikipedia,Running,mobile-app,2021-06-30,16
+en.wikipedia,Running,mobile-web,2021-06-01,357
+en.wikipedia,Running,mobile-web,2021-06-02,367
+en.wikipedia,Running,mobile-web,2021-06-03,416
+en.wikipedia,Running,mobile-web,2021-06-04,261
+en.wikipedia,Running,mobile-web,2021-06-05,321
+en.wikipedia,Running,mobile-web,2021-06-06,394
+en.wikipedia,Running,mobile-web,2021-06-07,345
+en.wikipedia,Running,mobile-web,2021-06-08,388
+en.wikipedia,Running,mobile-web,2021-06-09,263
+en.wikipedia,Running,mobile-web,2021-06-10,346
+en.wikipedia,Running,mobile-web,2021-06-11,322
+en.wikipedia,Running,mobile-web,2021-06-12,293
+en.wikipedia,Running,mobile-web,2021-06-13,298
+en.wikipedia,Running,mobile-web,2021-06-14,297
+en.wikipedia,Running,mobile-web,2021-06-15,326
+en.wikipedia,Running,mobile-web,2021-06-16,335
+en.wikipedia,Running,mobile-web,2021-06-17,330
+en.wikipedia,Running,mobile-web,2021-06-18,303
+en.wikipedia,Running,mobile-web,2021-06-19,334
+en.wikipedia,Running,mobile-web,2021-06-20,340
+en.wikipedia,Running,mobile-web,2021-06-21,293
+en.wikipedia,Running,mobile-web,2021-06-22,311
+en.wikipedia,Running,mobile-web,2021-06-23,351
+en.wikipedia,Running,mobile-web,2021-06-24,305
+en.wikipedia,Running,mobile-web,2021-06-25,300
+en.wikipedia,Running,mobile-web,2021-06-26,284
+en.wikipedia,Running,mobile-web,2021-06-27,349
+en.wikipedia,Running,mobile-web,2021-06-28,324
+en.wikipedia,Running,mobile-web,2021-06-29,357
+en.wikipedia,Running,mobile-web,2021-06-30,259
+en.wikipedia,Strava,desktop,2021-06-01,193
+en.wikipedia,Strava,desktop,2021-06-02,214
+en.wikipedia,Strava,desktop,2021-06-03,186
+en.wikipedia,Strava,desktop,2021-06-04,142
+en.wikipedia,Strava,desktop,2021-06-05,92
+en.wikipedia,Strava,desktop,2021-06-06,147
+en.wikipedia,Strava,desktop,2021-06-07,197
+en.wikipedia,Strava,desktop,2021-06-08,182
+en.wikipedia,Strava,desktop,2021-06-09,168
+en.wikipedia,Strava,desktop,2021-06-10,175
+en.wikipedia,Strava,desktop,2021-06-11,153
+en.wikipedia,Strava,desktop,2021-06-12,104
+en.wikipedia,Strava,desktop,2021-06-13,104
+en.wikipedia,Strava,desktop,2021-06-14,159
+en.wikipedia,Strava,desktop,2021-06-15,194
+en.wikipedia,Strava,desktop,2021-06-16,171
+en.wikipedia,Strava,desktop,2021-06-17,131
+en.wikipedia,Strava,desktop,2021-06-18,124
+en.wikipedia,Strava,desktop,2021-06-19,100
+en.wikipedia,Strava,desktop,2021-06-20,106
+en.wikipedia,Strava,desktop,2021-06-21,205
+en.wikipedia,Strava,desktop,2021-06-22,183
+en.wikipedia,Strava,desktop,2021-06-23,170
+en.wikipedia,Strava,desktop,2021-06-24,159
+en.wikipedia,Strava,desktop,2021-06-25,166
+en.wikipedia,Strava,desktop,2021-06-26,91
+en.wikipedia,Strava,desktop,2021-06-27,94
+en.wikipedia,Strava,desktop,2021-06-28,167
+en.wikipedia,Strava,desktop,2021-06-29,163
+en.wikipedia,Strava,desktop,2021-06-30,174
+en.wikipedia,Strava,mobile-app,2021-06-01,5
+en.wikipedia,Strava,mobile-app,2021-06-02,8
+en.wikipedia,Strava,mobile-app,2021-06-03,5
+en.wikipedia,Strava,mobile-app,2021-06-04,12
+en.wikipedia,Strava,mobile-app,2021-06-05,12
+en.wikipedia,Strava,mobile-app,2021-06-06,12
+en.wikipedia,Strava,mobile-app,2021-06-07,16
+en.wikipedia,Strava,mobile-app,2021-06-08,8
+en.wikipedia,Strava,mobile-app,2021-06-09,8
+en.wikipedia,Strava,mobile-app,2021-06-10,8
+en.wikipedia,Strava,mobile-app,2021-06-11,6
+en.wikipedia,Strava,mobile-app,2021-06-12,13
+en.wikipedia,Strava,mobile-app,2021-06-13,1
+en.wikipedia,Strava,mobile-app,2021-06-14,3
+en.wikipedia,Strava,mobile-app,2021-06-15,6
+en.wikipedia,Strava,mobile-app,2021-06-16,4
+en.wikipedia,Strava,mobile-app,2021-06-17,5
+en.wikipedia,Strava,mobile-app,2021-06-18,6
+en.wikipedia,Strava,mobile-app,2021-06-19,7
+en.wikipedia,Strava,mobile-app,2021-06-20,2
+en.wikipedia,Strava,mobile-app,2021-06-21,6
+en.wikipedia,Strava,mobile-app,2021-06-22,5
+en.wikipedia,Strava,mobile-app,2021-06-23,9
+en.wikipedia,Strava,mobile-app,2021-06-24,9
+en.wikipedia,Strava,mobile-app,2021-06-25,5
+en.wikipedia,Strava,mobile-app,2021-06-26,6
+en.wikipedia,Strava,mobile-app,2021-06-27,9
+en.wikipedia,Strava,mobile-app,2021-06-28,9
+en.wikipedia,Strava,mobile-app,2021-06-29,4
+en.wikipedia,Strava,mobile-app,2021-06-30,3
+en.wikipedia,Strava,mobile-web,2021-06-01,146
+en.wikipedia,Strava,mobile-web,2021-06-02,169
+en.wikipedia,Strava,mobile-web,2021-06-03,180
+en.wikipedia,Strava,mobile-web,2021-06-04,127
+en.wikipedia,Strava,mobile-web,2021-06-05,169
+en.wikipedia,Strava,mobile-web,2021-06-06,184
+en.wikipedia,Strava,mobile-web,2021-06-07,129
+en.wikipedia,Strava,mobile-web,2021-06-08,150
+en.wikipedia,Strava,mobile-web,2021-06-09,155
+en.wikipedia,Strava,mobile-web,2021-06-10,138
+en.wikipedia,Strava,mobile-web,2021-06-11,151
+en.wikipedia,Strava,mobile-web,2021-06-12,144
+en.wikipedia,Strava,mobile-web,2021-06-13,177
+en.wikipedia,Strava,mobile-web,2021-06-14,131
+en.wikipedia,Strava,mobile-web,2021-06-15,119
+en.wikipedia,Strava,mobile-web,2021-06-16,132
+en.wikipedia,Strava,mobile-web,2021-06-17,101
+en.wikipedia,Strava,mobile-web,2021-06-18,93
+en.wikipedia,Strava,mobile-web,2021-06-19,158
+en.wikipedia,Strava,mobile-web,2021-06-20,169
+en.wikipedia,Strava,mobile-web,2021-06-21,127
+en.wikipedia,Strava,mobile-web,2021-06-22,147
+en.wikipedia,Strava,mobile-web,2021-06-23,162
+en.wikipedia,Strava,mobile-web,2021-06-24,114
+en.wikipedia,Strava,mobile-web,2021-06-25,107
+en.wikipedia,Strava,mobile-web,2021-06-26,141
+en.wikipedia,Strava,mobile-web,2021-06-27,135
+en.wikipedia,Strava,mobile-web,2021-06-28,121
+en.wikipedia,Strava,mobile-web,2021-06-29,121
+en.wikipedia,Strava,mobile-web,2021-06-30,109

@@ -219,6 +219,12 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Secrets - never commit these
+# Secrets
 .env
 *.json
+
+# Rebuilt every run, never commit
+*.duckdb
+.venv/
+dbt_project/target/
+dbt_project/logs/

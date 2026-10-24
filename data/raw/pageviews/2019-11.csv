@@ -1,0 +1,403 @@
+project,article,access,view_date,views
+de.wikipedia,Strava,desktop,2019-11-01,38
+de.wikipedia,Strava,desktop,2019-11-02,26
+de.wikipedia,Strava,desktop,2019-11-03,39
+de.wikipedia,Strava,desktop,2019-11-04,56
+de.wikipedia,Strava,desktop,2019-11-05,46
+de.wikipedia,Strava,desktop,2019-11-06,46
+de.wikipedia,Strava,desktop,2019-11-07,30
+de.wikipedia,Strava,desktop,2019-11-08,24
+de.wikipedia,Strava,desktop,2019-11-09,18
+de.wikipedia,Strava,desktop,2019-11-10,27
+de.wikipedia,Strava,desktop,2019-11-11,34
+de.wikipedia,Strava,desktop,2019-11-12,44
+de.wikipedia,Strava,desktop,2019-11-13,48
+de.wikipedia,Strava,desktop,2019-11-14,39
+de.wikipedia,Strava,desktop,2019-11-15,25
+de.wikipedia,Strava,desktop,2019-11-16,32
+de.wikipedia,Strava,desktop,2019-11-17,36
+de.wikipedia,Strava,desktop,2019-11-18,31
+de.wikipedia,Strava,desktop,2019-11-19,51
+de.wikipedia,Strava,desktop,2019-11-20,39
+de.wikipedia,Strava,desktop,2019-11-21,34
+de.wikipedia,Strava,desktop,2019-11-22,22
+de.wikipedia,Strava,desktop,2019-11-23,24
+de.wikipedia,Strava,desktop,2019-11-24,30
+de.wikipedia,Strava,desktop,2019-11-25,47
+de.wikipedia,Strava,desktop,2019-11-26,31
+de.wikipedia,Strava,desktop,2019-11-27,33
+de.wikipedia,Strava,desktop,2019-11-28,23
+de.wikipedia,Strava,desktop,2019-11-29,28
+de.wikipedia,Strava,desktop,2019-11-30,19
+de.wikipedia,Strava,mobile-app,2019-11-01,1
+de.wikipedia,Strava,mobile-app,2019-11-02,1
+de.wikipedia,Strava,mobile-app,2019-11-03,2
+de.wikipedia,Strava,mobile-app,2019-11-04,3
+de.wikipedia,Strava,mobile-app,2019-11-05,2
+de.wikipedia,Strava,mobile-app,2019-11-06,1
+de.wikipedia,Strava,mobile-app,2019-11-07,1
+de.wikipedia,Strava,mobile-app,2019-11-08,3
+de.wikipedia,Strava,mobile-app,2019-11-09,6
+de.wikipedia,Strava,mobile-app,2019-11-10,3
+de.wikipedia,Strava,mobile-app,2019-11-11,2
+de.wikipedia,Strava,mobile-app,2019-11-12,8
+de.wikipedia,Strava,mobile-app,2019-11-13,4
+de.wikipedia,Strava,mobile-app,2019-11-14,2
+de.wikipedia,Strava,mobile-app,2019-11-15,0
+de.wikipedia,Strava,mobile-app,2019-11-16,7
+de.wikipedia,Strava,mobile-app,2019-11-17,6
+de.wikipedia,Strava,mobile-app,2019-11-18,0
+de.wikipedia,Strava,mobile-app,2019-11-19,5
+de.wikipedia,Strava,mobile-app,2019-11-20,1
+de.wikipedia,Strava,mobile-app,2019-11-21,1
+de.wikipedia,Strava,mobile-app,2019-11-22,0
+de.wikipedia,Strava,mobile-app,2019-11-23,4
+de.wikipedia,Strava,mobile-app,2019-11-24,1
+de.wikipedia,Strava,mobile-app,2019-11-25,1
+de.wikipedia,Strava,mobile-app,2019-11-26,2
+de.wikipedia,Strava,mobile-app,2019-11-27,3
+de.wikipedia,Strava,mobile-app,2019-11-28,2
+de.wikipedia,Strava,mobile-app,2019-11-29,2
+de.wikipedia,Strava,mobile-app,2019-11-30,2
+de.wikipedia,Strava,mobile-web,2019-11-01,26
+de.wikipedia,Strava,mobile-web,2019-11-02,30
+de.wikipedia,Strava,mobile-web,2019-11-03,38
+de.wikipedia,Strava,mobile-web,2019-11-04,22
+de.wikipedia,Strava,mobile-web,2019-11-05,21
+de.wikipedia,Strava,mobile-web,2019-11-06,14
+de.wikipedia,Strava,mobile-web,2019-11-07,27
+de.wikipedia,Strava,mobile-web,2019-11-08,14
+de.wikipedia,Strava,mobile-web,2019-11-09,21
+de.wikipedia,Strava,mobile-web,2019-11-10,25
+de.wikipedia,Strava,mobile-web,2019-11-11,29
+de.wikipedia,Strava,mobile-web,2019-11-12,18
+de.wikipedia,Strava,mobile-web,2019-11-13,33
+de.wikipedia,Strava,mobile-web,2019-11-14,27
+de.wikipedia,Strava,mobile-web,2019-11-15,27
+de.wikipedia,Strava,mobile-web,2019-11-16,34
+de.wikipedia,Strava,mobile-web,2019-11-17,35
+de.wikipedia,Strava,mobile-web,2019-11-18,27
+de.wikipedia,Strava,mobile-web,2019-11-19,46
+de.wikipedia,Strava,mobile-web,2019-11-20,16
+de.wikipedia,Strava,mobile-web,2019-11-21,22
+de.wikipedia,Strava,mobile-web,2019-11-22,15
+de.wikipedia,Strava,mobile-web,2019-11-23,24
+de.wikipedia,Strava,mobile-web,2019-11-24,41
+de.wikipedia,Strava,mobile-web,2019-11-25,27
+de.wikipedia,Strava,mobile-web,2019-11-26,16
+de.wikipedia,Strava,mobile-web,2019-11-27,23
+de.wikipedia,Strava,mobile-web,2019-11-28,11
+de.wikipedia,Strava,mobile-web,2019-11-29,7
+de.wikipedia,Strava,mobile-web,2019-11-30,19
+en.wikipedia,Garmin,desktop,2019-11-01,739
+en.wikipedia,Garmin,desktop,2019-11-02,471
+en.wikipedia,Garmin,desktop,2019-11-03,334
+en.wikipedia,Garmin,desktop,2019-11-04,540
+en.wikipedia,Garmin,desktop,2019-11-05,499
+en.wikipedia,Garmin,desktop,2019-11-06,552
+en.wikipedia,Garmin,desktop,2019-11-07,455
+en.wikipedia,Garmin,desktop,2019-11-08,398
+en.wikipedia,Garmin,desktop,2019-11-09,265
+en.wikipedia,Garmin,desktop,2019-11-10,329
+en.wikipedia,Garmin,desktop,2019-11-11,381
+en.wikipedia,Garmin,desktop,2019-11-12,408
+en.wikipedia,Garmin,desktop,2019-11-13,450
+en.wikipedia,Garmin,desktop,2019-11-14,379
+en.wikipedia,Garmin,desktop,2019-11-15,352
+en.wikipedia,Garmin,desktop,2019-11-16,227
+en.wikipedia,Garmin,desktop,2019-11-17,234
+en.wikipedia,Garmin,desktop,2019-11-18,426
+en.wikipedia,Garmin,desktop,2019-11-19,472
+en.wikipedia,Garmin,desktop,2019-11-20,471
+en.wikipedia,Garmin,desktop,2019-11-21,373
+en.wikipedia,Garmin,desktop,2019-11-22,386
+en.wikipedia,Garmin,desktop,2019-11-23,262
+en.wikipedia,Garmin,desktop,2019-11-24,365
+en.wikipedia,Garmin,desktop,2019-11-25,481
+en.wikipedia,Garmin,desktop,2019-11-26,426
+en.wikipedia,Garmin,desktop,2019-11-27,420
+en.wikipedia,Garmin,desktop,2019-11-28,375
+en.wikipedia,Garmin,desktop,2019-11-29,435
+en.wikipedia,Garmin,desktop,2019-11-30,284
+en.wikipedia,Garmin,mobile-app,2019-11-01,45
+en.wikipedia,Garmin,mobile-app,2019-11-02,34
+en.wikipedia,Garmin,mobile-app,2019-11-03,20
+en.wikipedia,Garmin,mobile-app,2019-11-04,12
+en.wikipedia,Garmin,mobile-app,2019-11-05,14
+en.wikipedia,Garmin,mobile-app,2019-11-06,18
+en.wikipedia,Garmin,mobile-app,2019-11-07,17
+en.wikipedia,Garmin,mobile-app,2019-11-08,19
+en.wikipedia,Garmin,mobile-app,2019-11-09,13
+en.wikipedia,Garmin,mobile-app,2019-11-10,17
+en.wikipedia,Garmin,mobile-app,2019-11-11,10
+en.wikipedia,Garmin,mobile-app,2019-11-12,8
+en.wikipedia,Garmin,mobile-app,2019-11-13,18
+en.wikipedia,Garmin,mobile-app,2019-11-14,8
+en.wikipedia,Garmin,mobile-app,2019-11-15,8
+en.wikipedia,Garmin,mobile-app,2019-11-16,17
+en.wikipedia,Garmin,mobile-app,2019-11-17,15
+en.wikipedia,Garmin,mobile-app,2019-11-18,10
+en.wikipedia,Garmin,mobile-app,2019-11-19,11
+en.wikipedia,Garmin,mobile-app,2019-11-20,9
+en.wikipedia,Garmin,mobile-app,2019-11-21,7
+en.wikipedia,Garmin,mobile-app,2019-11-22,17
+en.wikipedia,Garmin,mobile-app,2019-11-23,18
+en.wikipedia,Garmin,mobile-app,2019-11-24,17
+en.wikipedia,Garmin,mobile-app,2019-11-25,16
+en.wikipedia,Garmin,mobile-app,2019-11-26,16
+en.wikipedia,Garmin,mobile-app,2019-11-27,14
+en.wikipedia,Garmin,mobile-app,2019-11-28,27
+en.wikipedia,Garmin,mobile-app,2019-11-29,16
+en.wikipedia,Garmin,mobile-app,2019-11-30,19
+en.wikipedia,Garmin,mobile-web,2019-11-01,546
+en.wikipedia,Garmin,mobile-web,2019-11-02,625
+en.wikipedia,Garmin,mobile-web,2019-11-03,433
+en.wikipedia,Garmin,mobile-web,2019-11-04,364
+en.wikipedia,Garmin,mobile-web,2019-11-05,312
+en.wikipedia,Garmin,mobile-web,2019-11-06,307
+en.wikipedia,Garmin,mobile-web,2019-11-07,297
+en.wikipedia,Garmin,mobile-web,2019-11-08,310
+en.wikipedia,Garmin,mobile-web,2019-11-09,349
+en.wikipedia,Garmin,mobile-web,2019-11-10,342
+en.wikipedia,Garmin,mobile-web,2019-11-11,317
+en.wikipedia,Garmin,mobile-web,2019-11-12,368
+en.wikipedia,Garmin,mobile-web,2019-11-13,313
+en.wikipedia,Garmin,mobile-web,2019-11-14,291
+en.wikipedia,Garmin,mobile-web,2019-11-15,290
+en.wikipedia,Garmin,mobile-web,2019-11-16,348
+en.wikipedia,Garmin,mobile-web,2019-11-17,349
+en.wikipedia,Garmin,mobile-web,2019-11-18,299
+en.wikipedia,Garmin,mobile-web,2019-11-19,247
+en.wikipedia,Garmin,mobile-web,2019-11-20,261
+en.wikipedia,Garmin,mobile-web,2019-11-21,262
+en.wikipedia,Garmin,mobile-web,2019-11-22,291
+en.wikipedia,Garmin,mobile-web,2019-11-23,299
+en.wikipedia,Garmin,mobile-web,2019-11-24,313
+en.wikipedia,Garmin,mobile-web,2019-11-25,283
+en.wikipedia,Garmin,mobile-web,2019-11-26,327
+en.wikipedia,Garmin,mobile-web,2019-11-27,291
+en.wikipedia,Garmin,mobile-web,2019-11-28,326
+en.wikipedia,Garmin,mobile-web,2019-11-29,394
+en.wikipedia,Garmin,mobile-web,2019-11-30,375
+en.wikipedia,Peloton Interactive,desktop,2019-11-01,0
+en.wikipedia,Peloton Interactive,desktop,2019-11-04,1
+en.wikipedia,Peloton Interactive,desktop,2019-11-06,2
+en.wikipedia,Peloton Interactive,desktop,2019-11-07,1
+en.wikipedia,Peloton Interactive,desktop,2019-11-09,1
+en.wikipedia,Peloton Interactive,desktop,2019-11-13,1
+en.wikipedia,Peloton Interactive,desktop,2019-11-15,0
+en.wikipedia,Peloton Interactive,desktop,2019-11-18,0
+en.wikipedia,Peloton Interactive,desktop,2019-11-19,1
+en.wikipedia,Peloton Interactive,desktop,2019-11-20,0
+en.wikipedia,Peloton Interactive,desktop,2019-11-22,0
+en.wikipedia,Peloton Interactive,desktop,2019-11-25,0
+en.wikipedia,Peloton Interactive,desktop,2019-11-26,1
+en.wikipedia,Peloton Interactive,desktop,2019-11-27,1
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-01,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-04,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-06,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-07,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-09,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-13,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-15,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-18,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-19,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-20,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-22,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-25,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-26,0
+en.wikipedia,Peloton Interactive,mobile-app,2019-11-27,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-01,4
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-04,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-06,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-07,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-09,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-13,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-15,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-18,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-19,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-20,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-22,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-25,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-26,0
+en.wikipedia,Peloton Interactive,mobile-web,2019-11-27,0
+en.wikipedia,Running,desktop,2019-11-01,212
+en.wikipedia,Running,desktop,2019-11-02,156
+en.wikipedia,Running,desktop,2019-11-03,207
+en.wikipedia,Running,desktop,2019-11-04,331
+en.wikipedia,Running,desktop,2019-11-05,347
+en.wikipedia,Running,desktop,2019-11-06,315
+en.wikipedia,Running,desktop,2019-11-07,364
+en.wikipedia,Running,desktop,2019-11-08,270
+en.wikipedia,Running,desktop,2019-11-09,233
+en.wikipedia,Running,desktop,2019-11-10,263
+en.wikipedia,Running,desktop,2019-11-11,347
+en.wikipedia,Running,desktop,2019-11-12,302
+en.wikipedia,Running,desktop,2019-11-13,300
+en.wikipedia,Running,desktop,2019-11-14,307
+en.wikipedia,Running,desktop,2019-11-15,281
+en.wikipedia,Running,desktop,2019-11-16,227
+en.wikipedia,Running,desktop,2019-11-17,245
+en.wikipedia,Running,desktop,2019-11-18,295
+en.wikipedia,Running,desktop,2019-11-19,325
+en.wikipedia,Running,desktop,2019-11-20,348
+en.wikipedia,Running,desktop,2019-11-21,298
+en.wikipedia,Running,desktop,2019-11-22,317
+en.wikipedia,Running,desktop,2019-11-23,198
+en.wikipedia,Running,desktop,2019-11-24,279
+en.wikipedia,Running,desktop,2019-11-25,358
+en.wikipedia,Running,desktop,2019-11-26,326
+en.wikipedia,Running,desktop,2019-11-27,236
+en.wikipedia,Running,desktop,2019-11-28,271
+en.wikipedia,Running,desktop,2019-11-29,238
+en.wikipedia,Running,desktop,2019-11-30,196
+en.wikipedia,Running,mobile-app,2019-11-01,6
+en.wikipedia,Running,mobile-app,2019-11-02,15
+en.wikipedia,Running,mobile-app,2019-11-03,7
+en.wikipedia,Running,mobile-app,2019-11-04,12
+en.wikipedia,Running,mobile-app,2019-11-05,12
+en.wikipedia,Running,mobile-app,2019-11-06,15
+en.wikipedia,Running,mobile-app,2019-11-07,13
+en.wikipedia,Running,mobile-app,2019-11-08,19
+en.wikipedia,Running,mobile-app,2019-11-09,4
+en.wikipedia,Running,mobile-app,2019-11-10,10
+en.wikipedia,Running,mobile-app,2019-11-11,10
+en.wikipedia,Running,mobile-app,2019-11-12,8
+en.wikipedia,Running,mobile-app,2019-11-13,4
+en.wikipedia,Running,mobile-app,2019-11-14,3
+en.wikipedia,Running,mobile-app,2019-11-15,5
+en.wikipedia,Running,mobile-app,2019-11-16,7
+en.wikipedia,Running,mobile-app,2019-11-17,8
+en.wikipedia,Running,mobile-app,2019-11-18,11
+en.wikipedia,Running,mobile-app,2019-11-19,4
+en.wikipedia,Running,mobile-app,2019-11-20,6
+en.wikipedia,Running,mobile-app,2019-11-21,3
+en.wikipedia,Running,mobile-app,2019-11-22,19
+en.wikipedia,Running,mobile-app,2019-11-23,3
+en.wikipedia,Running,mobile-app,2019-11-24,5
+en.wikipedia,Running,mobile-app,2019-11-25,15
+en.wikipedia,Running,mobile-app,2019-11-26,13
+en.wikipedia,Running,mobile-app,2019-11-27,5
+en.wikipedia,Running,mobile-app,2019-11-28,11
+en.wikipedia,Running,mobile-app,2019-11-29,7
+en.wikipedia,Running,mobile-app,2019-11-30,4
+en.wikipedia,Running,mobile-web,2019-11-01,395
+en.wikipedia,Running,mobile-web,2019-11-02,405
+en.wikipedia,Running,mobile-web,2019-11-03,500
+en.wikipedia,Running,mobile-web,2019-11-04,510
+en.wikipedia,Running,mobile-web,2019-11-05,588
+en.wikipedia,Running,mobile-web,2019-11-06,543
+en.wikipedia,Running,mobile-web,2019-11-07,472
+en.wikipedia,Running,mobile-web,2019-11-08,418
+en.wikipedia,Running,mobile-web,2019-11-09,432
+en.wikipedia,Running,mobile-web,2019-11-10,506
+en.wikipedia,Running,mobile-web,2019-11-11,656
+en.wikipedia,Running,mobile-web,2019-11-12,1533
+en.wikipedia,Running,mobile-web,2019-11-13,1386
+en.wikipedia,Running,mobile-web,2019-11-14,835
+en.wikipedia,Running,mobile-web,2019-11-15,499
+en.wikipedia,Running,mobile-web,2019-11-16,487
+en.wikipedia,Running,mobile-web,2019-11-17,551
+en.wikipedia,Running,mobile-web,2019-11-18,594
+en.wikipedia,Running,mobile-web,2019-11-19,592
+en.wikipedia,Running,mobile-web,2019-11-20,598
+en.wikipedia,Running,mobile-web,2019-11-21,513
+en.wikipedia,Running,mobile-web,2019-11-22,418
+en.wikipedia,Running,mobile-web,2019-11-23,423
+en.wikipedia,Running,mobile-web,2019-11-24,522
+en.wikipedia,Running,mobile-web,2019-11-25,477
+en.wikipedia,Running,mobile-web,2019-11-26,657
+en.wikipedia,Running,mobile-web,2019-11-27,484
+en.wikipedia,Running,mobile-web,2019-11-28,474
+en.wikipedia,Running,mobile-web,2019-11-29,401
+en.wikipedia,Running,mobile-web,2019-11-30,366
+en.wikipedia,Strava,desktop,2019-11-01,190
+en.wikipedia,Strava,desktop,2019-11-02,116
+en.wikipedia,Strava,desktop,2019-11-03,146
+en.wikipedia,Strava,desktop,2019-11-04,242
+en.wikipedia,Strava,desktop,2019-11-05,235
+en.wikipedia,Strava,desktop,2019-11-06,219
+en.wikipedia,Strava,desktop,2019-11-07,170
+en.wikipedia,Strava,desktop,2019-11-08,160
+en.wikipedia,Strava,desktop,2019-11-09,146
+en.wikipedia,Strava,desktop,2019-11-10,131
+en.wikipedia,Strava,desktop,2019-11-11,182
+en.wikipedia,Strava,desktop,2019-11-12,237
+en.wikipedia,Strava,desktop,2019-11-13,223
+en.wikipedia,Strava,desktop,2019-11-14,211
+en.wikipedia,Strava,desktop,2019-11-15,143
+en.wikipedia,Strava,desktop,2019-11-16,119
+en.wikipedia,Strava,desktop,2019-11-17,125
+en.wikipedia,Strava,desktop,2019-11-18,213
+en.wikipedia,Strava,desktop,2019-11-19,254
+en.wikipedia,Strava,desktop,2019-11-20,189
+en.wikipedia,Strava,desktop,2019-11-21,157
+en.wikipedia,Strava,desktop,2019-11-22,140
+en.wikipedia,Strava,desktop,2019-11-23,114
+en.wikipedia,Strava,desktop,2019-11-24,149
+en.wikipedia,Strava,desktop,2019-11-25,211
+en.wikipedia,Strava,desktop,2019-11-26,191
+en.wikipedia,Strava,desktop,2019-11-27,196
+en.wikipedia,Strava,desktop,2019-11-28,139
+en.wikipedia,Strava,desktop,2019-11-29,125
+en.wikipedia,Strava,desktop,2019-11-30,107
+en.wikipedia,Strava,mobile-app,2019-11-01,11
+en.wikipedia,Strava,mobile-app,2019-11-02,5
+en.wikipedia,Strava,mobile-app,2019-11-03,14
+en.wikipedia,Strava,mobile-app,2019-11-04,6
+en.wikipedia,Strava,mobile-app,2019-11-05,7
+en.wikipedia,Strava,mobile-app,2019-11-06,6
+en.wikipedia,Strava,mobile-app,2019-11-07,2
+en.wikipedia,Strava,mobile-app,2019-11-08,7
+en.wikipedia,Strava,mobile-app,2019-11-09,2
+en.wikipedia,Strava,mobile-app,2019-11-10,4
+en.wikipedia,Strava,mobile-app,2019-11-11,4
+en.wikipedia,Strava,mobile-app,2019-11-12,6
+en.wikipedia,Strava,mobile-app,2019-11-13,5
+en.wikipedia,Strava,mobile-app,2019-11-14,2
+en.wikipedia,Strava,mobile-app,2019-11-15,8
+en.wikipedia,Strava,mobile-app,2019-11-16,7
+en.wikipedia,Strava,mobile-app,2019-11-17,7
+en.wikipedia,Strava,mobile-app,2019-11-18,6
+en.wikipedia,Strava,mobile-app,2019-11-19,9
+en.wikipedia,Strava,mobile-app,2019-11-20,9
+en.wikipedia,Strava,mobile-app,2019-11-21,6
+en.wikipedia,Strava,mobile-app,2019-11-22,3
+en.wikipedia,Strava,mobile-app,2019-11-23,7
+en.wikipedia,Strava,mobile-app,2019-11-24,6
+en.wikipedia,Strava,mobile-app,2019-11-25,6
+en.wikipedia,Strava,mobile-app,2019-11-26,3
+en.wikipedia,Strava,mobile-app,2019-11-27,6
+en.wikipedia,Strava,mobile-app,2019-11-28,3
+en.wikipedia,Strava,mobile-app,2019-11-29,3
+en.wikipedia,Strava,mobile-app,2019-11-30,4
+en.wikipedia,Strava,mobile-web,2019-11-01,125
+en.wikipedia,Strava,mobile-web,2019-11-02,125
+en.wikipedia,Strava,mobile-web,2019-11-03,150
+en.wikipedia,Strava,mobile-web,2019-11-04,139
+en.wikipedia,Strava,mobile-web,2019-11-05,127
+en.wikipedia,Strava,mobile-web,2019-11-06,127
+en.wikipedia,Strava,mobile-web,2019-11-07,115
+en.wikipedia,Strava,mobile-web,2019-11-08,106
+en.wikipedia,Strava,mobile-web,2019-11-09,135
+en.wikipedia,Strava,mobile-web,2019-11-10,114
+en.wikipedia,Strava,mobile-web,2019-11-11,122
+en.wikipedia,Strava,mobile-web,2019-11-12,147
+en.wikipedia,Strava,mobile-web,2019-11-13,157
+en.wikipedia,Strava,mobile-web,2019-11-14,129
+en.wikipedia,Strava,mobile-web,2019-11-15,112
+en.wikipedia,Strava,mobile-web,2019-11-16,120
+en.wikipedia,Strava,mobile-web,2019-11-17,118
+en.wikipedia,Strava,mobile-web,2019-11-18,130
+en.wikipedia,Strava,mobile-web,2019-11-19,168
+en.wikipedia,Strava,mobile-web,2019-11-20,99
+en.wikipedia,Strava,mobile-web,2019-11-21,112
+en.wikipedia,Strava,mobile-web,2019-11-22,87
+en.wikipedia,Strava,mobile-web,2019-11-23,125
+en.wikipedia,Strava,mobile-web,2019-11-24,123
+en.wikipedia,Strava,mobile-web,2019-11-25,106
+en.wikipedia,Strava,mobile-web,2019-11-26,104
+en.wikipedia,Strava,mobile-web,2019-11-27,85
+en.wikipedia,Strava,mobile-web,2019-11-28,107
+en.wikipedia,Strava,mobile-web,2019-11-29,112
+en.wikipedia,Strava,mobile-web,2019-11-30,106
