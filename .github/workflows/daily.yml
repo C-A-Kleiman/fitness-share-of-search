@@ -1,0 +1,44 @@
+name: daily-pipeline
+
+on:
+  schedule:
+    - cron: "0 14 * * *"    # 14:00 UTC = 10am ET, after Wikimedia publishes
+  workflow_dispatch:         # adds a "Run workflow" button
+
+permissions:
+  contents: write            # lets the workflow commit the updated CSVs
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Extract
+        run: python extract/pageviews.py --mode incremental
+
+      - name: Save raw data to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw
+          git diff --staged --quiet || git commit -m "Daily pageviews update"
+          git push
+
+      - name: Transform and test
+        working-directory: dbt_project
+        run: |
+          dbt build --profiles-dir .
+          dbt source freshness --profiles-dir .
+
+      - name: Publish to Google Sheets
+        run: python extract/publish.py
+        env:
+          GOOGLE_CREDS: ${{ secrets.GOOGLE_CREDS }}
