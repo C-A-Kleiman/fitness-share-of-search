@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: stg_pageviews
+    columns:
+      - name: brand
+        tests:
+          - not_null          # catches article titles missing from the seed
+      - name: access
+        tests:
+          - accepted_values:
+              values: ['desktop', 'mobile-web', 'mobile-app']
+      - name: article_type
+        tests:
+          - accepted_values:
+              values: ['brand', 'category']

@@ -1,0 +1,7 @@
+fitness:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: fitness.duckdb
+      threads: 4
