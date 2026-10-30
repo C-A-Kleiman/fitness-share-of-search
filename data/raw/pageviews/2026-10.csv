@@ -27,6 +27,7 @@ de.wikipedia,Strava,desktop,2026-10-25,11
 de.wikipedia,Strava,desktop,2026-10-26,13
 de.wikipedia,Strava,desktop,2026-10-27,14
 de.wikipedia,Strava,desktop,2026-10-28,15
+de.wikipedia,Strava,desktop,2026-10-29,15
 de.wikipedia,Strava,mobile-app,2026-10-01,3
 de.wikipedia,Strava,mobile-app,2026-10-02,0
 de.wikipedia,Strava,mobile-app,2026-10-03,0
@@ -55,6 +56,7 @@ de.wikipedia,Strava,mobile-app,2026-10-25,5
 de.wikipedia,Strava,mobile-app,2026-10-26,2
 de.wikipedia,Strava,mobile-app,2026-10-27,0
 de.wikipedia,Strava,mobile-app,2026-10-28,0
+de.wikipedia,Strava,mobile-app,2026-10-29,1
 de.wikipedia,Strava,mobile-web,2026-10-01,28
 de.wikipedia,Strava,mobile-web,2026-10-02,20
 de.wikipedia,Strava,mobile-web,2026-10-03,18
@@ -83,6 +85,7 @@ de.wikipedia,Strava,mobile-web,2026-10-25,10
 de.wikipedia,Strava,mobile-web,2026-10-26,17
 de.wikipedia,Strava,mobile-web,2026-10-27,14
 de.wikipedia,Strava,mobile-web,2026-10-28,23
+de.wikipedia,Strava,mobile-web,2026-10-29,19
 en.wikipedia,Adidas_Runtastic,desktop,2026-10-01,7
 en.wikipedia,Adidas_Runtastic,desktop,2026-10-02,10
 en.wikipedia,Adidas_Runtastic,desktop,2026-10-03,14
@@ -111,6 +114,7 @@ en.wikipedia,Adidas_Runtastic,desktop,2026-10-25,5
 en.wikipedia,Adidas_Runtastic,desktop,2026-10-26,11
 en.wikipedia,Adidas_Runtastic,desktop,2026-10-27,6
 en.wikipedia,Adidas_Runtastic,desktop,2026-10-28,14
+en.wikipedia,Adidas_Runtastic,desktop,2026-10-29,8
 en.wikipedia,Adidas_Runtastic,mobile-app,2026-10-01,2
 en.wikipedia,Adidas_Runtastic,mobile-app,2026-10-02,0
 en.wikipedia,Adidas_Runtastic,mobile-app,2026-10-03,0
@@ -139,6 +143,7 @@ en.wikipedia,Adidas_Runtastic,mobile-app,2026-10-25,0
 en.wikipedia,Adidas_Runtastic,mobile-app,2026-10-26,0
 en.wikipedia,Adidas_Runtastic,mobile-app,2026-10-27,1
 en.wikipedia,Adidas_Runtastic,mobile-app,2026-10-28,0
+en.wikipedia,Adidas_Runtastic,mobile-app,2026-10-29,0
 en.wikipedia,Adidas_Runtastic,mobile-web,2026-10-01,10
 en.wikipedia,Adidas_Runtastic,mobile-web,2026-10-02,10
 en.wikipedia,Adidas_Runtastic,mobile-web,2026-10-03,13
@@ -167,6 +172,7 @@ en.wikipedia,Adidas_Runtastic,mobile-web,2026-10-25,19
 en.wikipedia,Adidas_Runtastic,mobile-web,2026-10-26,6
 en.wikipedia,Adidas_Runtastic,mobile-web,2026-10-27,16
 en.wikipedia,Adidas_Runtastic,mobile-web,2026-10-28,13
+en.wikipedia,Adidas_Runtastic,mobile-web,2026-10-29,14
 en.wikipedia,Apple_Fitness,desktop,2026-10-01,9
 en.wikipedia,Apple_Fitness,desktop,2026-10-02,8
 en.wikipedia,Apple_Fitness,desktop,2026-10-03,6
@@ -195,6 +201,7 @@ en.wikipedia,Apple_Fitness,desktop,2026-10-25,4
 en.wikipedia,Apple_Fitness,desktop,2026-10-26,20
 en.wikipedia,Apple_Fitness,desktop,2026-10-27,3
 en.wikipedia,Apple_Fitness,desktop,2026-10-28,9
+en.wikipedia,Apple_Fitness,desktop,2026-10-29,6
 en.wikipedia,Apple_Fitness,mobile-app,2026-10-01,3
 en.wikipedia,Apple_Fitness,mobile-app,2026-10-02,3
 en.wikipedia,Apple_Fitness,mobile-app,2026-10-03,0
@@ -223,6 +230,7 @@ en.wikipedia,Apple_Fitness,mobile-app,2026-10-25,0
 en.wikipedia,Apple_Fitness,mobile-app,2026-10-26,0
 en.wikipedia,Apple_Fitness,mobile-app,2026-10-27,0
 en.wikipedia,Apple_Fitness,mobile-app,2026-10-28,1
+en.wikipedia,Apple_Fitness,mobile-app,2026-10-29,1
 en.wikipedia,Apple_Fitness,mobile-web,2026-10-01,10
 en.wikipedia,Apple_Fitness,mobile-web,2026-10-02,5
 en.wikipedia,Apple_Fitness,mobile-web,2026-10-03,16
@@ -251,6 +259,7 @@ en.wikipedia,Apple_Fitness,mobile-web,2026-10-25,14
 en.wikipedia,Apple_Fitness,mobile-web,2026-10-26,9
 en.wikipedia,Apple_Fitness,mobile-web,2026-10-27,11
 en.wikipedia,Apple_Fitness,mobile-web,2026-10-28,7
+en.wikipedia,Apple_Fitness,mobile-web,2026-10-29,8
 en.wikipedia,Cycling,desktop,2026-10-01,670
 en.wikipedia,Cycling,desktop,2026-10-02,846
 en.wikipedia,Cycling,desktop,2026-10-03,352
@@ -279,6 +288,7 @@ en.wikipedia,Cycling,desktop,2026-10-25,1317
 en.wikipedia,Cycling,desktop,2026-10-26,1571
 en.wikipedia,Cycling,desktop,2026-10-27,350
 en.wikipedia,Cycling,desktop,2026-10-28,293
+en.wikipedia,Cycling,desktop,2026-10-29,129
 en.wikipedia,Cycling,mobile-app,2026-10-01,7
 en.wikipedia,Cycling,mobile-app,2026-10-02,1
 en.wikipedia,Cycling,mobile-app,2026-10-03,7
@@ -307,6 +317,7 @@ en.wikipedia,Cycling,mobile-app,2026-10-25,3
 en.wikipedia,Cycling,mobile-app,2026-10-26,4
 en.wikipedia,Cycling,mobile-app,2026-10-27,4
 en.wikipedia,Cycling,mobile-app,2026-10-28,1
+en.wikipedia,Cycling,mobile-app,2026-10-29,2
 en.wikipedia,Cycling,mobile-web,2026-10-01,89
 en.wikipedia,Cycling,mobile-web,2026-10-02,71
 en.wikipedia,Cycling,mobile-web,2026-10-03,70
@@ -335,6 +346,7 @@ en.wikipedia,Cycling,mobile-web,2026-10-25,56
 en.wikipedia,Cycling,mobile-web,2026-10-26,53
 en.wikipedia,Cycling,mobile-web,2026-10-27,69
 en.wikipedia,Cycling,mobile-web,2026-10-28,39
+en.wikipedia,Cycling,mobile-web,2026-10-29,71
 en.wikipedia,Garmin,desktop,2026-10-01,275
 en.wikipedia,Garmin,desktop,2026-10-02,221
 en.wikipedia,Garmin,desktop,2026-10-03,154
@@ -363,6 +375,7 @@ en.wikipedia,Garmin,desktop,2026-10-25,173
 en.wikipedia,Garmin,desktop,2026-10-26,284
 en.wikipedia,Garmin,desktop,2026-10-27,236
 en.wikipedia,Garmin,desktop,2026-10-28,293
+en.wikipedia,Garmin,desktop,2026-10-29,267
 en.wikipedia,Garmin,mobile-app,2026-10-01,17
 en.wikipedia,Garmin,mobile-app,2026-10-02,9
 en.wikipedia,Garmin,mobile-app,2026-10-03,23
@@ -391,6 +404,7 @@ en.wikipedia,Garmin,mobile-app,2026-10-25,18
 en.wikipedia,Garmin,mobile-app,2026-10-26,17
 en.wikipedia,Garmin,mobile-app,2026-10-27,15
 en.wikipedia,Garmin,mobile-app,2026-10-28,13
+en.wikipedia,Garmin,mobile-app,2026-10-29,17
 en.wikipedia,Garmin,mobile-web,2026-10-01,236
 en.wikipedia,Garmin,mobile-web,2026-10-02,277
 en.wikipedia,Garmin,mobile-web,2026-10-03,284
@@ -419,6 +433,7 @@ en.wikipedia,Garmin,mobile-web,2026-10-25,259
 en.wikipedia,Garmin,mobile-web,2026-10-26,260
 en.wikipedia,Garmin,mobile-web,2026-10-27,217
 en.wikipedia,Garmin,mobile-web,2026-10-28,230
+en.wikipedia,Garmin,mobile-web,2026-10-29,220
 en.wikipedia,Peloton Interactive,desktop,2026-10-01,100
 en.wikipedia,Peloton Interactive,desktop,2026-10-02,61
 en.wikipedia,Peloton Interactive,desktop,2026-10-03,53
@@ -447,6 +462,7 @@ en.wikipedia,Peloton Interactive,desktop,2026-10-25,57
 en.wikipedia,Peloton Interactive,desktop,2026-10-26,87
 en.wikipedia,Peloton Interactive,desktop,2026-10-27,57
 en.wikipedia,Peloton Interactive,desktop,2026-10-28,69
+en.wikipedia,Peloton Interactive,desktop,2026-10-29,59
 en.wikipedia,Peloton Interactive,mobile-app,2026-10-01,5
 en.wikipedia,Peloton Interactive,mobile-app,2026-10-02,2
 en.wikipedia,Peloton Interactive,mobile-app,2026-10-03,6
@@ -475,6 +491,7 @@ en.wikipedia,Peloton Interactive,mobile-app,2026-10-25,11
 en.wikipedia,Peloton Interactive,mobile-app,2026-10-26,4
 en.wikipedia,Peloton Interactive,mobile-app,2026-10-27,5
 en.wikipedia,Peloton Interactive,mobile-app,2026-10-28,4
+en.wikipedia,Peloton Interactive,mobile-app,2026-10-29,6
 en.wikipedia,Peloton Interactive,mobile-web,2026-10-01,51
 en.wikipedia,Peloton Interactive,mobile-web,2026-10-02,60
 en.wikipedia,Peloton Interactive,mobile-web,2026-10-03,64
@@ -503,6 +520,7 @@ en.wikipedia,Peloton Interactive,mobile-web,2026-10-25,63
 en.wikipedia,Peloton Interactive,mobile-web,2026-10-26,82
 en.wikipedia,Peloton Interactive,mobile-web,2026-10-27,62
 en.wikipedia,Peloton Interactive,mobile-web,2026-10-28,56
+en.wikipedia,Peloton Interactive,mobile-web,2026-10-29,67
 en.wikipedia,RockMyRun,desktop,2026-10-01,2
 en.wikipedia,RockMyRun,desktop,2026-10-02,0
 en.wikipedia,RockMyRun,desktop,2026-10-03,3
@@ -531,6 +549,7 @@ en.wikipedia,RockMyRun,desktop,2026-10-25,0
 en.wikipedia,RockMyRun,desktop,2026-10-26,1
 en.wikipedia,RockMyRun,desktop,2026-10-27,0
 en.wikipedia,RockMyRun,desktop,2026-10-28,2
+en.wikipedia,RockMyRun,desktop,2026-10-29,1
 en.wikipedia,RockMyRun,mobile-app,2026-10-01,0
 en.wikipedia,RockMyRun,mobile-app,2026-10-02,0
 en.wikipedia,RockMyRun,mobile-app,2026-10-03,0
@@ -559,6 +578,7 @@ en.wikipedia,RockMyRun,mobile-app,2026-10-25,0
 en.wikipedia,RockMyRun,mobile-app,2026-10-26,0
 en.wikipedia,RockMyRun,mobile-app,2026-10-27,0
 en.wikipedia,RockMyRun,mobile-app,2026-10-28,0
+en.wikipedia,RockMyRun,mobile-app,2026-10-29,0
 en.wikipedia,RockMyRun,mobile-web,2026-10-01,0
 en.wikipedia,RockMyRun,mobile-web,2026-10-02,0
 en.wikipedia,RockMyRun,mobile-web,2026-10-03,1
@@ -587,6 +607,7 @@ en.wikipedia,RockMyRun,mobile-web,2026-10-25,1
 en.wikipedia,RockMyRun,mobile-web,2026-10-26,1
 en.wikipedia,RockMyRun,mobile-web,2026-10-27,0
 en.wikipedia,RockMyRun,mobile-web,2026-10-28,0
+en.wikipedia,RockMyRun,mobile-web,2026-10-29,0
 en.wikipedia,Runkeeper,desktop,2026-10-01,10
 en.wikipedia,Runkeeper,desktop,2026-10-02,6
 en.wikipedia,Runkeeper,desktop,2026-10-03,10
@@ -615,6 +636,7 @@ en.wikipedia,Runkeeper,desktop,2026-10-25,2
 en.wikipedia,Runkeeper,desktop,2026-10-26,4
 en.wikipedia,Runkeeper,desktop,2026-10-27,4
 en.wikipedia,Runkeeper,desktop,2026-10-28,2
+en.wikipedia,Runkeeper,desktop,2026-10-29,6
 en.wikipedia,Runkeeper,mobile-app,2026-10-01,0
 en.wikipedia,Runkeeper,mobile-app,2026-10-02,0
 en.wikipedia,Runkeeper,mobile-app,2026-10-03,0
@@ -643,6 +665,7 @@ en.wikipedia,Runkeeper,mobile-app,2026-10-25,0
 en.wikipedia,Runkeeper,mobile-app,2026-10-26,0
 en.wikipedia,Runkeeper,mobile-app,2026-10-27,0
 en.wikipedia,Runkeeper,mobile-app,2026-10-28,0
+en.wikipedia,Runkeeper,mobile-app,2026-10-29,0
 en.wikipedia,Runkeeper,mobile-web,2026-10-01,7
 en.wikipedia,Runkeeper,mobile-web,2026-10-02,8
 en.wikipedia,Runkeeper,mobile-web,2026-10-03,2
@@ -671,6 +694,7 @@ en.wikipedia,Runkeeper,mobile-web,2026-10-25,9
 en.wikipedia,Runkeeper,mobile-web,2026-10-26,5
 en.wikipedia,Runkeeper,mobile-web,2026-10-27,4
 en.wikipedia,Runkeeper,mobile-web,2026-10-28,12
+en.wikipedia,Runkeeper,mobile-web,2026-10-29,11
 en.wikipedia,Running,desktop,2026-10-01,595
 en.wikipedia,Running,desktop,2026-10-02,870
 en.wikipedia,Running,desktop,2026-10-03,345
@@ -699,6 +723,7 @@ en.wikipedia,Running,desktop,2026-10-25,3189
 en.wikipedia,Running,desktop,2026-10-26,3170
 en.wikipedia,Running,desktop,2026-10-27,1114
 en.wikipedia,Running,desktop,2026-10-28,923
+en.wikipedia,Running,desktop,2026-10-29,267
 en.wikipedia,Running,mobile-app,2026-10-01,6
 en.wikipedia,Running,mobile-app,2026-10-02,4
 en.wikipedia,Running,mobile-app,2026-10-03,11
@@ -727,6 +752,7 @@ en.wikipedia,Running,mobile-app,2026-10-25,11
 en.wikipedia,Running,mobile-app,2026-10-26,9
 en.wikipedia,Running,mobile-app,2026-10-27,11
 en.wikipedia,Running,mobile-app,2026-10-28,3
+en.wikipedia,Running,mobile-app,2026-10-29,6
 en.wikipedia,Running,mobile-web,2026-10-01,128
 en.wikipedia,Running,mobile-web,2026-10-02,124
 en.wikipedia,Running,mobile-web,2026-10-03,108
@@ -755,6 +781,7 @@ en.wikipedia,Running,mobile-web,2026-10-25,134
 en.wikipedia,Running,mobile-web,2026-10-26,129
 en.wikipedia,Running,mobile-web,2026-10-27,132
 en.wikipedia,Running,mobile-web,2026-10-28,127
+en.wikipedia,Running,mobile-web,2026-10-29,160
 en.wikipedia,Strava,desktop,2026-10-01,146
 en.wikipedia,Strava,desktop,2026-10-02,137
 en.wikipedia,Strava,desktop,2026-10-03,88
@@ -783,6 +810,7 @@ en.wikipedia,Strava,desktop,2026-10-25,173
 en.wikipedia,Strava,desktop,2026-10-26,123
 en.wikipedia,Strava,desktop,2026-10-27,150
 en.wikipedia,Strava,desktop,2026-10-28,163
+en.wikipedia,Strava,desktop,2026-10-29,126
 en.wikipedia,Strava,mobile-app,2026-10-01,11
 en.wikipedia,Strava,mobile-app,2026-10-02,6
 en.wikipedia,Strava,mobile-app,2026-10-03,6
@@ -811,6 +839,7 @@ en.wikipedia,Strava,mobile-app,2026-10-25,5
 en.wikipedia,Strava,mobile-app,2026-10-26,8
 en.wikipedia,Strava,mobile-app,2026-10-27,7
 en.wikipedia,Strava,mobile-app,2026-10-28,6
+en.wikipedia,Strava,mobile-app,2026-10-29,12
 en.wikipedia,Strava,mobile-web,2026-10-01,184
 en.wikipedia,Strava,mobile-web,2026-10-02,154
 en.wikipedia,Strava,mobile-web,2026-10-03,200
@@ -839,6 +868,7 @@ en.wikipedia,Strava,mobile-web,2026-10-25,140
 en.wikipedia,Strava,mobile-web,2026-10-26,173
 en.wikipedia,Strava,mobile-web,2026-10-27,164
 en.wikipedia,Strava,mobile-web,2026-10-28,139
+en.wikipedia,Strava,mobile-web,2026-10-29,147
 en.wikipedia,Swimming,desktop,2026-10-01,785
 en.wikipedia,Swimming,desktop,2026-10-02,1050
 en.wikipedia,Swimming,desktop,2026-10-03,358
@@ -867,6 +897,7 @@ en.wikipedia,Swimming,desktop,2026-10-25,6081
 en.wikipedia,Swimming,desktop,2026-10-26,5616
 en.wikipedia,Swimming,desktop,2026-10-27,1333
 en.wikipedia,Swimming,desktop,2026-10-28,1083
+en.wikipedia,Swimming,desktop,2026-10-29,350
 en.wikipedia,Swimming,mobile-app,2026-10-01,5
 en.wikipedia,Swimming,mobile-app,2026-10-02,1
 en.wikipedia,Swimming,mobile-app,2026-10-03,6
@@ -895,6 +926,7 @@ en.wikipedia,Swimming,mobile-app,2026-10-25,8
 en.wikipedia,Swimming,mobile-app,2026-10-26,4
 en.wikipedia,Swimming,mobile-app,2026-10-27,1
 en.wikipedia,Swimming,mobile-app,2026-10-28,5
+en.wikipedia,Swimming,mobile-app,2026-10-29,9
 en.wikipedia,Swimming,mobile-web,2026-10-01,136
 en.wikipedia,Swimming,mobile-web,2026-10-02,109
 en.wikipedia,Swimming,mobile-web,2026-10-03,102
@@ -923,6 +955,7 @@ en.wikipedia,Swimming,mobile-web,2026-10-25,144
 en.wikipedia,Swimming,mobile-web,2026-10-26,107
 en.wikipedia,Swimming,mobile-web,2026-10-27,85
 en.wikipedia,Swimming,mobile-web,2026-10-28,87
+en.wikipedia,Swimming,mobile-web,2026-10-29,69
 en.wikipedia,Whoop (company),desktop,2026-10-01,136
 en.wikipedia,Whoop (company),desktop,2026-10-02,141
 en.wikipedia,Whoop (company),desktop,2026-10-03,126
@@ -951,6 +984,7 @@ en.wikipedia,Whoop (company),desktop,2026-10-25,70
 en.wikipedia,Whoop (company),desktop,2026-10-26,145
 en.wikipedia,Whoop (company),desktop,2026-10-27,126
 en.wikipedia,Whoop (company),desktop,2026-10-28,113
+en.wikipedia,Whoop (company),desktop,2026-10-29,122
 en.wikipedia,Whoop (company),mobile-app,2026-10-01,5
 en.wikipedia,Whoop (company),mobile-app,2026-10-02,7
 en.wikipedia,Whoop (company),mobile-app,2026-10-03,14
@@ -979,6 +1013,7 @@ en.wikipedia,Whoop (company),mobile-app,2026-10-25,11
 en.wikipedia,Whoop (company),mobile-app,2026-10-26,2
 en.wikipedia,Whoop (company),mobile-app,2026-10-27,4
 en.wikipedia,Whoop (company),mobile-app,2026-10-28,7
+en.wikipedia,Whoop (company),mobile-app,2026-10-29,5
 en.wikipedia,Whoop (company),mobile-web,2026-10-01,145
 en.wikipedia,Whoop (company),mobile-web,2026-10-02,310
 en.wikipedia,Whoop (company),mobile-web,2026-10-03,331
@@ -1007,6 +1042,7 @@ en.wikipedia,Whoop (company),mobile-web,2026-10-25,158
 en.wikipedia,Whoop (company),mobile-web,2026-10-26,158
 en.wikipedia,Whoop (company),mobile-web,2026-10-27,123
 en.wikipedia,Whoop (company),mobile-web,2026-10-28,143
+en.wikipedia,Whoop (company),mobile-web,2026-10-29,182
 es.wikipedia,Strava,desktop,2026-10-01,2
 es.wikipedia,Strava,desktop,2026-10-02,5
 es.wikipedia,Strava,desktop,2026-10-03,2
@@ -1035,6 +1071,7 @@ es.wikipedia,Strava,desktop,2026-10-25,13
 es.wikipedia,Strava,desktop,2026-10-26,18
 es.wikipedia,Strava,desktop,2026-10-27,24
 es.wikipedia,Strava,desktop,2026-10-28,32
+es.wikipedia,Strava,desktop,2026-10-29,19
 es.wikipedia,Strava,mobile-app,2026-10-01,0
 es.wikipedia,Strava,mobile-app,2026-10-02,0
 es.wikipedia,Strava,mobile-app,2026-10-03,2
@@ -1063,6 +1100,7 @@ es.wikipedia,Strava,mobile-app,2026-10-25,0
 es.wikipedia,Strava,mobile-app,2026-10-26,0
 es.wikipedia,Strava,mobile-app,2026-10-27,0
 es.wikipedia,Strava,mobile-app,2026-10-28,0
+es.wikipedia,Strava,mobile-app,2026-10-29,0
 es.wikipedia,Strava,mobile-web,2026-10-01,4
 es.wikipedia,Strava,mobile-web,2026-10-02,4
 es.wikipedia,Strava,mobile-web,2026-10-03,9
@@ -1091,6 +1129,7 @@ es.wikipedia,Strava,mobile-web,2026-10-25,8
 es.wikipedia,Strava,mobile-web,2026-10-26,5
 es.wikipedia,Strava,mobile-web,2026-10-27,12
 es.wikipedia,Strava,mobile-web,2026-10-28,14
+es.wikipedia,Strava,mobile-web,2026-10-29,7
 fr.wikipedia,Strava,desktop,2026-10-01,14
 fr.wikipedia,Strava,desktop,2026-10-02,11
 fr.wikipedia,Strava,desktop,2026-10-03,8
@@ -1119,6 +1158,7 @@ fr.wikipedia,Strava,desktop,2026-10-25,18
 fr.wikipedia,Strava,desktop,2026-10-26,19
 fr.wikipedia,Strava,desktop,2026-10-27,15
 fr.wikipedia,Strava,desktop,2026-10-28,21
+fr.wikipedia,Strava,desktop,2026-10-29,16
 fr.wikipedia,Strava,mobile-app,2026-10-01,2
 fr.wikipedia,Strava,mobile-app,2026-10-02,0
 fr.wikipedia,Strava,mobile-app,2026-10-03,3
@@ -1147,6 +1187,7 @@ fr.wikipedia,Strava,mobile-app,2026-10-25,0
 fr.wikipedia,Strava,mobile-app,2026-10-26,3
 fr.wikipedia,Strava,mobile-app,2026-10-27,0
 fr.wikipedia,Strava,mobile-app,2026-10-28,2
+fr.wikipedia,Strava,mobile-app,2026-10-29,2
 fr.wikipedia,Strava,mobile-web,2026-10-01,28
 fr.wikipedia,Strava,mobile-web,2026-10-02,15
 fr.wikipedia,Strava,mobile-web,2026-10-03,21
@@ -1175,6 +1216,7 @@ fr.wikipedia,Strava,mobile-web,2026-10-25,28
 fr.wikipedia,Strava,mobile-web,2026-10-26,24
 fr.wikipedia,Strava,mobile-web,2026-10-27,18
 fr.wikipedia,Strava,mobile-web,2026-10-28,14
+fr.wikipedia,Strava,mobile-web,2026-10-29,10
 it.wikipedia,Strava,desktop,2026-10-01,5
 it.wikipedia,Strava,desktop,2026-10-02,8
 it.wikipedia,Strava,desktop,2026-10-03,3
@@ -1203,6 +1245,7 @@ it.wikipedia,Strava,desktop,2026-10-25,11
 it.wikipedia,Strava,desktop,2026-10-26,16
 it.wikipedia,Strava,desktop,2026-10-27,7
 it.wikipedia,Strava,desktop,2026-10-28,21
+it.wikipedia,Strava,desktop,2026-10-29,13
 it.wikipedia,Strava,mobile-app,2026-10-01,0
 it.wikipedia,Strava,mobile-app,2026-10-02,0
 it.wikipedia,Strava,mobile-app,2026-10-03,0
@@ -1231,6 +1274,7 @@ it.wikipedia,Strava,mobile-app,2026-10-25,0
 it.wikipedia,Strava,mobile-app,2026-10-26,0
 it.wikipedia,Strava,mobile-app,2026-10-27,0
 it.wikipedia,Strava,mobile-app,2026-10-28,0
+it.wikipedia,Strava,mobile-app,2026-10-29,0
 it.wikipedia,Strava,mobile-web,2026-10-01,2
 it.wikipedia,Strava,mobile-web,2026-10-02,10
 it.wikipedia,Strava,mobile-web,2026-10-03,11
@@ -1259,6 +1303,7 @@ it.wikipedia,Strava,mobile-web,2026-10-25,8
 it.wikipedia,Strava,mobile-web,2026-10-26,11
 it.wikipedia,Strava,mobile-web,2026-10-27,11
 it.wikipedia,Strava,mobile-web,2026-10-28,7
+it.wikipedia,Strava,mobile-web,2026-10-29,11
 vi.wikipedia,Strava,desktop,2026-10-01,0
 vi.wikipedia,Strava,desktop,2026-10-02,0
 vi.wikipedia,Strava,desktop,2026-10-03,1
@@ -1287,6 +1332,7 @@ vi.wikipedia,Strava,desktop,2026-10-25,1
 vi.wikipedia,Strava,desktop,2026-10-26,0
 vi.wikipedia,Strava,desktop,2026-10-27,1
 vi.wikipedia,Strava,desktop,2026-10-28,1
+vi.wikipedia,Strava,desktop,2026-10-29,7
 vi.wikipedia,Strava,mobile-app,2026-10-01,0
 vi.wikipedia,Strava,mobile-app,2026-10-02,0
 vi.wikipedia,Strava,mobile-app,2026-10-03,0
@@ -1315,6 +1361,7 @@ vi.wikipedia,Strava,mobile-app,2026-10-25,0
 vi.wikipedia,Strava,mobile-app,2026-10-26,0
 vi.wikipedia,Strava,mobile-app,2026-10-27,0
 vi.wikipedia,Strava,mobile-app,2026-10-28,0
+vi.wikipedia,Strava,mobile-app,2026-10-29,0
 vi.wikipedia,Strava,mobile-web,2026-10-01,1
 vi.wikipedia,Strava,mobile-web,2026-10-02,0
 vi.wikipedia,Strava,mobile-web,2026-10-03,1
@@ -1343,3 +1390,4 @@ vi.wikipedia,Strava,mobile-web,2026-10-25,1
 vi.wikipedia,Strava,mobile-web,2026-10-26,0
 vi.wikipedia,Strava,mobile-web,2026-10-27,0
 vi.wikipedia,Strava,mobile-web,2026-10-28,1
+vi.wikipedia,Strava,mobile-web,2026-10-29,2
